@@ -1,0 +1,994 @@
+[
+  {
+    "actorId": "ad576f9e-0a8e-49e6-a117-a0f3b98f75c3",
+    "actorName": "Zachary Adams",
+    "nationality": "Solomon Islands",
+    "earnings": 2193.850908,
+    "percent": 44.67,
+    "role": "Lead Actor",
+    "movies": [
+      {
+        "movieId": "6341b2f1-846d-4f5d-94de-859e01f2548c",
+        "movieTitle": "Versatile value-added groupware",
+        "earnings": 1280.58,
+        "releaseYear": 2007,
+        "genre": "Thriller",
+        "rating": 4.3
+      },
+      {
+        "movieId": "73ef0d45-ac23-4a08-b549-c2527b07f8fe",
+        "movieTitle": "Vision-oriented discrete solution",
+        "earnings": 2091.91,
+        "releaseYear": 2017,
+        "genre": "Thriller",
+        "rating": 1.4
+      },
+      {
+        "movieId": "d3de9b63-29e9-4431-97b6-1fa030180766",
+        "movieTitle": "Expanded coherent toolset",
+        "earnings": 846.26,
+        "releaseYear": 2010,
+        "genre": "Comedy",
+        "rating": 8.5
+      },
+      {
+        "movieId": "74192b0e-87cc-493d-ba80-db8b2e29c2d4",
+        "movieTitle": "Object-based system-worthy access",
+        "earnings": 692.49,
+        "releaseYear": 2010,
+        "genre": "Action",
+        "rating": 2.5
+      }
+    ]
+  },
+  {
+    "actorId": "47bac8c1-7702-4f9f-ba74-7cac0dc86413",
+    "actorName": "Crystal Le PhD",
+    "nationality": "South Africa",
+    "earnings": 7935.756356,
+    "percent": 69.41,
+    "role": "Lead Actor",
+    "movies": [
+      {
+        "movieId": "88c8d774-5dbb-43ac-8bee-85ab1665d945",
+        "movieTitle": "Phased value-added capability",
+        "earnings": 2506.47,
+        "releaseYear": 2022,
+        "genre": "Action",
+        "rating": 2.5
+      },
+      {
+        "movieId": "5d528c52-f4fa-4ba2-9116-cc059bf56ebe",
+        "movieTitle": "Multi-channeled web-enabled core",
+        "earnings": 1143.68,
+        "releaseYear": 1986,
+        "genre": "Thriller",
+        "rating": 9.5
+      },
+      {
+        "movieId": "4b959e49-9b94-4648-b4fd-47ea73d6c9df",
+        "movieTitle": "Pre-emptive incremental capacity",
+        "earnings": 1377.76,
+        "releaseYear": 2008,
+        "genre": "Comedy",
+        "rating": 7.3
+      },
+      {
+        "movieId": "e04e02f0-9ca0-481b-97b2-24a9d58b4d79",
+        "movieTitle": "Object-based fault-tolerant complexity",
+        "earnings": 2832.97,
+        "releaseYear": 1993,
+        "genre": "Drama",
+        "rating": 2.1
+      },
+      {
+        "movieId": "8a52adba-23f5-407c-b20c-7cd417e43f42",
+        "movieTitle": "Seamless radical interface",
+        "earnings": 2838.69,
+        "releaseYear": 1989,
+        "genre": "Action",
+        "rating": 5.6
+      },
+      {
+        "movieId": "d4c70e6c-428f-4d20-b652-1a76e7fc8ed3",
+        "movieTitle": "Profound 3rdgeneration knowledge user",
+        "earnings": 733.59,
+        "releaseYear": 1992,
+        "genre": "Drama",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "actorId": "e12864ad-a55d-4eda-a88b-98fc599a1763",
+    "actorName": "Virginia Charles",
+    "nationality": "Liberia",
+    "earnings": 6175.27319,
+    "percent": 61.58,
+    "role": "Lead Actor",
+    "movies": [
+      {
+        "movieId": "ea3a76fd-5903-4793-a1c2-524579ac0a87",
+        "movieTitle": "Synergized content-based help-desk",
+        "earnings": 2589.57,
+        "releaseYear": 1999,
+        "genre": "Comedy",
+        "rating": 8.9
+      },
+      {
+        "movieId": "52bf6ea8-e24e-43fc-85a2-14ca26cf4dc6",
+        "movieTitle": "Versatile maximized product",
+        "earnings": 2978.39,
+        "releaseYear": 1985,
+        "genre": "Thriller",
+        "rating": 2.0
+      },
+      {
+        "movieId": "090f65c3-8666-43ca-9a0e-4b69b3d3810d",
+        "movieTitle": "Customer-focused disintermediate orchestration",
+        "earnings": 1977.48,
+        "releaseYear": 2007,
+        "genre": "Thriller",
+        "rating": 6.7
+      },
+      {
+        "movieId": "b68be8d1-b989-4f82-ae92-ef6dac31aa0d",
+        "movieTitle": "Digitized empowering installation",
+        "earnings": 2482.61,
+        "releaseYear": 1982,
+        "genre": "Comedy",
+        "rating": 3.3
+      }
+    ]
+  },
+  {
+    "actorId": "bdd08df3-b9aa-4958-ba42-33242130bd72",
+    "actorName": "Tiffany Frederick",
+    "nationality": "Wallis and Futuna",
+    "earnings": 5171.345207999999,
+    "percent": 48.87,
+    "role": "Supporting Actor",
+    "movies": [
+      {
+        "movieId": "97daae9e-ec34-4029-b89e-6c9e56d8baf7",
+        "movieTitle": "Fundamental static core",
+        "earnings": 1828.65,
+        "releaseYear": 1992,
+        "genre": "Drama",
+        "rating": 6.5
+      },
+      {
+        "movieId": "b61d9cff-d6b7-4c74-8126-bd57c2b9b22a",
+        "movieTitle": "Profound coherent service-desk",
+        "earnings": 1970.69,
+        "releaseYear": 1988,
+        "genre": "Action",
+        "rating": 4.4
+      },
+      {
+        "movieId": "1531fcd8-daaf-4088-aae2-fe03b740c006",
+        "movieTitle": "Virtual hybrid solution",
+        "earnings": 2062.74,
+        "releaseYear": 1984,
+        "genre": "Action",
+        "rating": 5.1
+      },
+      {
+        "movieId": "c75c37a8-d6d0-4a65-8fba-71693a17f37f",
+        "movieTitle": "Pre-emptive next generation benchmark",
+        "earnings": 1533.49,
+        "releaseYear": 2021,
+        "genre": "Drama",
+        "rating": 9.7
+      },
+      {
+        "movieId": "3e4c3bf3-8a87-4d76-a4ec-a8aabb9c145a",
+        "movieTitle": "Polarized responsive challenge",
+        "earnings": 585.86,
+        "releaseYear": 2009,
+        "genre": "Comedy",
+        "rating": 5.8
+      },
+      {
+        "movieId": "fc8b8067-2ab3-4f90-b67b-71dbfe666cd9",
+        "movieTitle": "Function-based interactive software",
+        "earnings": 2600.41,
+        "releaseYear": 2002,
+        "genre": "Comedy",
+        "rating": 1.9
+      }
+    ]
+  },
+  {
+    "actorId": "65a65d9b-607c-4391-92fc-3ccbf2ac2bc0",
+    "actorName": "Sabrina Simmons",
+    "nationality": "Venezuela",
+    "earnings": 5384.297288,
+    "percent": 60.82,
+    "role": "Antagonist",
+    "movies": [
+      {
+        "movieId": "89bb1bf0-5b1d-4614-9387-6d1932dbf174",
+        "movieTitle": "Persevering solution-oriented paradigm",
+        "earnings": 1502.71,
+        "releaseYear": 1990,
+        "genre": "Drama",
+        "rating": 9.6
+      },
+      {
+        "movieId": "af475061-3e71-4d41-8f1d-52f6239caa8d",
+        "movieTitle": "Pre-emptive 6thgeneration service-desk",
+        "earnings": 2627.49,
+        "releaseYear": 2020,
+        "genre": "Thriller",
+        "rating": 7.4
+      },
+      {
+        "movieId": "62162545-fd81-473d-bfba-423a949846b2",
+        "movieTitle": "Self-enabling optimal definition",
+        "earnings": 2233.39,
+        "releaseYear": 2009,
+        "genre": "Thriller",
+        "rating": 1.4
+      },
+      {
+        "movieId": "12284390-53c2-466d-af73-34088541ec8a",
+        "movieTitle": "Expanded mission-critical website",
+        "earnings": 2489.25,
+        "releaseYear": 2004,
+        "genre": "Thriller",
+        "rating": 6.3
+      }
+    ]
+  },
+  {
+    "actorId": "dcfa3048-21d6-4f4f-99cd-f3bd5c7e5eeb",
+    "actorName": "Barbara Carlson PhD",
+    "nationality": "Vanuatu",
+    "earnings": 6838.020057,
+    "percent": 56.01,
+    "role": "Antagonist",
+    "movies": [
+      {
+        "movieId": "9e77dd44-48eb-4dcd-b84c-5b323a02a1df",
+        "movieTitle": "User-centric tangible interface",
+        "earnings": 2797.05,
+        "releaseYear": 1986,
+        "genre": "Thriller",
+        "rating": 4.6
+      },
+      {
+        "movieId": "c26414a4-75ac-4d98-b764-9866898067ee",
+        "movieTitle": "Integrated systematic approach",
+        "earnings": 2629.05,
+        "releaseYear": 2013,
+        "genre": "Drama",
+        "rating": 6.5
+      },
+      {
+        "movieId": "672efb03-9a40-481d-92a2-024a56732493",
+        "movieTitle": "Configurable multi-state protocol",
+        "earnings": 1074.52,
+        "releaseYear": 1992,
+        "genre": "Drama",
+        "rating": 1.7
+      },
+      {
+        "movieId": "25f9bb8d-1511-49a0-b068-9693b93492c3",
+        "movieTitle": "Front-line solution-oriented website",
+        "earnings": 874.89,
+        "releaseYear": 1986,
+        "genre": "Comedy",
+        "rating": 2.0
+      },
+      {
+        "movieId": "3222c7de-9cf3-4d11-b597-4ff0fb830475",
+        "movieTitle": "Programmable 5thgeneration synergy",
+        "earnings": 2120.67,
+        "releaseYear": 1980,
+        "genre": "Drama",
+        "rating": 9.5
+      },
+      {
+        "movieId": "8c8df189-08a1-481b-9fc6-a577f29d3277",
+        "movieTitle": "Monitored object-oriented capacity",
+        "earnings": 2712.39,
+        "releaseYear": 2015,
+        "genre": "Action",
+        "rating": 7.7
+      }
+    ]
+  },
+  {
+    "actorId": "48adb4b0-d70d-4d78-b613-4b557ec23e5f",
+    "actorName": "Brooke Hill",
+    "nationality": "Guinea",
+    "earnings": 1710.078738,
+    "percent": 14.66,
+    "role": "Supporting Actor",
+    "movies": [
+      {
+        "movieId": "66fe5c79-3aef-455f-866d-ef7315480924",
+        "movieTitle": "Synchronized encompassing time-frame",
+        "earnings": 2743.3,
+        "releaseYear": 2001,
+        "genre": "Thriller",
+        "rating": 4.4
+      },
+      {
+        "movieId": "7e0cb6d8-c5aa-4694-985c-099540a7f15a",
+        "movieTitle": "Fundamental composite hierarchy",
+        "earnings": 2270.43,
+        "releaseYear": 2008,
+        "genre": "Drama",
+        "rating": 6.2
+      },
+      {
+        "movieId": "0e1f86e7-994f-46f5-b3ab-5e5afec3dde1",
+        "movieTitle": "Robust real-time matrix",
+        "earnings": 2902.45,
+        "releaseYear": 2022,
+        "genre": "Drama",
+        "rating": 4.7
+      },
+      {
+        "movieId": "6c627e6a-1b62-40a8-a63f-15b3f24653a7",
+        "movieTitle": "Future-proofed high-level adapter",
+        "earnings": 1331.48,
+        "releaseYear": 1990,
+        "genre": "Drama",
+        "rating": 7.3
+      },
+      {
+        "movieId": "e153fab4-db9c-41c4-bb87-be16bee7d354",
+        "movieTitle": "Intuitive modular productivity",
+        "earnings": 2417.27,
+        "releaseYear": 2001,
+        "genre": "Thriller",
+        "rating": 3.1
+      }
+    ]
+  },
+  {
+    "actorId": "31469e65-7478-4590-b606-19357396f35a",
+    "actorName": "Allison Briggs",
+    "nationality": "Singapore",
+    "earnings": 1894.8864,
+    "percent": 33.0,
+    "role": "Supporting Actor",
+    "movies": [
+      {
+        "movieId": "8bc3d7a0-0efc-4771-ad4f-3bf14230c338",
+        "movieTitle": "Reduced cohesive customer loyalty",
+        "earnings": 1376.79,
+        "releaseYear": 1988,
+        "genre": "Drama",
+        "rating": 1.2
+      },
+      {
+        "movieId": "c02ce0cd-bc20-42bd-8c0c-01a943cb3188",
+        "movieTitle": "Up-sized high-level moratorium",
+        "earnings": 1167.15,
+        "releaseYear": 1998,
+        "genre": "Comedy",
+        "rating": 2.9
+      },
+      {
+        "movieId": "b47a3cfd-ab1b-4ab6-a8e6-45d63681f062",
+        "movieTitle": "Total even-keeled throughput",
+        "earnings": 1739.2,
+        "releaseYear": 2003,
+        "genre": "Drama",
+        "rating": 8.6
+      },
+      {
+        "movieId": "6549a239-78fa-4b5b-97da-d0ad6bab1323",
+        "movieTitle": "Front-line asynchronous Graphical User Interface",
+        "earnings": 1458.94,
+        "releaseYear": 2020,
+        "genre": "Thriller",
+        "rating": 8.3
+      }
+    ]
+  },
+  {
+    "actorId": "181dc8b6-1c47-41e4-b965-6185aa334cb3",
+    "actorName": "Matthew Barrett",
+    "nationality": "Guatemala",
+    "earnings": 1121.412613,
+    "percent": 21.43,
+    "role": "Lead Actor",
+    "movies": [
+      {
+        "movieId": "3e555f23-bb8f-420d-8288-5bbf37181a15",
+        "movieTitle": "Vision-oriented disintermediate software",
+        "earnings": 646.58,
+        "releaseYear": 2014,
+        "genre": "Action",
+        "rating": 9.4
+      },
+      {
+        "movieId": "7a3b06ae-401e-4d32-8d4f-71061138bed3",
+        "movieTitle": "Decentralized exuding implementation",
+        "earnings": 2324.74,
+        "releaseYear": 1992,
+        "genre": "Thriller",
+        "rating": 3.9
+      },
+      {
+        "movieId": "3bf02672-2902-4006-8196-b6370e821657",
+        "movieTitle": "Reduced demand-driven support",
+        "earnings": 795.71,
+        "releaseYear": 1984,
+        "genre": "Comedy",
+        "rating": 4.5
+      },
+      {
+        "movieId": "764888d1-12ae-4c66-9fe4-6f57eb663ad4",
+        "movieTitle": "Fundamental client-driven model",
+        "earnings": 1465.88,
+        "releaseYear": 2004,
+        "genre": "Thriller",
+        "rating": 6.6
+      }
+    ]
+  },
+  {
+    "actorId": "9c394748-c9bc-4652-b1b3-66bf7a67b0e0",
+    "actorName": "James Hines",
+    "nationality": "Rwanda",
+    "earnings": 7575.977376,
+    "percent": 63.92,
+    "role": "Cameo",
+    "movies": [
+      {
+        "movieId": "d7dd0dff-d5f9-41c2-9f4c-038f53e1f5eb",
+        "movieTitle": "Synergized 24/7 neural-net",
+        "earnings": 2536.8,
+        "releaseYear": 1980,
+        "genre": "Drama",
+        "rating": 1.5
+      },
+      {
+        "movieId": "fb66bdc2-5499-4385-937e-ba946d8870bc",
+        "movieTitle": "Sharable disintermediate contingency",
+        "earnings": 2996.84,
+        "releaseYear": 2004,
+        "genre": "Action",
+        "rating": 6.0
+      },
+      {
+        "movieId": "79b42da5-3ca3-4a45-b73d-3e7ea13f8cb2",
+        "movieTitle": "Synergistic tangible architecture",
+        "earnings": 2018.28,
+        "releaseYear": 2003,
+        "genre": "Drama",
+        "rating": 6.7
+      },
+      {
+        "movieId": "bbba0b1a-a0aa-47b2-aa03-88dc9cd065f8",
+        "movieTitle": "Profound logistical flexibility",
+        "earnings": 2793.69,
+        "releaseYear": 1999,
+        "genre": "Thriller",
+        "rating": 1.2
+      },
+      {
+        "movieId": "f6ea9255-b0bb-409e-85af-d5524ca2837e",
+        "movieTitle": "Future-proofed responsive collaboration",
+        "earnings": 669.57,
+        "releaseYear": 1986,
+        "genre": "Action",
+        "rating": 4.1
+      },
+      {
+        "movieId": "63ddc8ee-6c79-4540-888d-0f1ab99db0c6",
+        "movieTitle": "Secured non-volatile focus group",
+        "earnings": 837.1,
+        "releaseYear": 1988,
+        "genre": "Action",
+        "rating": 7.8
+      }
+    ]
+  },
+  {
+    "actorId": "c0164436-c708-4c2d-8ef5-4ff1973bfea7",
+    "actorName": "Patrick Powell",
+    "nationality": "Brunei Darussalam",
+    "earnings": 1936.90756,
+    "percent": 42.95,
+    "role": "Antagonist",
+    "movies": [
+      {
+        "movieId": "e40f03cb-d307-4bec-a38b-6c4bebb78f01",
+        "movieTitle": "Front-line optimal moratorium",
+        "earnings": 1404.82,
+        "releaseYear": 1980,
+        "genre": "Drama",
+        "rating": 2.3
+      },
+      {
+        "movieId": "a0d62987-e459-4f95-a385-3c16cf260ef5",
+        "movieTitle": "Ameliorated client-driven knowledge user",
+        "earnings": 976.47,
+        "releaseYear": 1983,
+        "genre": "Action",
+        "rating": 4.8
+      },
+      {
+        "movieId": "666112e9-c9db-437f-b36f-3848a414ea94",
+        "movieTitle": "Fundamental modular matrix",
+        "earnings": 1184.96,
+        "releaseYear": 2015,
+        "genre": "Action",
+        "rating": 1.5
+      },
+      {
+        "movieId": "dc8c44b9-c1fc-4616-81cb-7471e073edb9",
+        "movieTitle": "Automated multi-state portal",
+        "earnings": 943.43,
+        "releaseYear": 2010,
+        "genre": "Comedy",
+        "rating": 1.7
+      }
+    ]
+  },
+  {
+    "actorId": "9f31bbfc-9c13-4f12-880b-ed4e906798b9",
+    "actorName": "Austin Rollins",
+    "nationality": "Faroe Islands",
+    "earnings": 1311.61387,
+    "percent": 11.27,
+    "role": "Lead Actor",
+    "movies": [
+      {
+        "movieId": "7c3554c9-4333-4b70-b932-66f2b373a0fb",
+        "movieTitle": "Secured heuristic ability",
+        "earnings": 2213.97,
+        "releaseYear": 1982,
+        "genre": "Thriller",
+        "rating": 7.6
+      },
+      {
+        "movieId": "52dd1df0-9307-4f70-8ab8-608e946259bd",
+        "movieTitle": "Persevering web-enabled concept",
+        "earnings": 2196.23,
+        "releaseYear": 1995,
+        "genre": "Drama",
+        "rating": 1.4
+      },
+      {
+        "movieId": "68916066-f97e-48ac-bef2-b3c802408b6f",
+        "movieTitle": "Streamlined hybrid function",
+        "earnings": 1670.24,
+        "releaseYear": 1988,
+        "genre": "Action",
+        "rating": 2.5
+      },
+      {
+        "movieId": "d2eaaab6-23b1-4520-97cc-4c715fb5e5b1",
+        "movieTitle": "Switchable directional matrix",
+        "earnings": 2024.59,
+        "releaseYear": 2016,
+        "genre": "Thriller",
+        "rating": 4.5
+      },
+      {
+        "movieId": "25884162-bdf3-4bf9-bac8-723a93a1480f",
+        "movieTitle": "Reduced solution-oriented initiative",
+        "earnings": 2411.94,
+        "releaseYear": 2015,
+        "genre": "Thriller",
+        "rating": 4.7
+      },
+      {
+        "movieId": "1ebf0878-a4f1-43ef-a2af-6941a9e82a9b",
+        "movieTitle": "Innovative mission-critical data-warehouse",
+        "earnings": 1121.13,
+        "releaseYear": 2022,
+        "genre": "Action",
+        "rating": 3.1
+      }
+    ]
+  },
+  {
+    "actorId": "695551bb-4538-4967-ab03-0c86a06cb85b",
+    "actorName": "Mary Copeland",
+    "nationality": "Svalbard & Jan Mayen Islands",
+    "earnings": 4299.86074,
+    "percent": 40.6,
+    "role": "Cameo",
+    "movies": [
+      {
+        "movieId": "040e5d54-30ad-4fd9-9a8b-c6b79915d580",
+        "movieTitle": "Polarized real-time frame",
+        "earnings": 1789.64,
+        "releaseYear": 1992,
+        "genre": "Drama",
+        "rating": 1.9
+      },
+      {
+        "movieId": "8757b2ff-8ce1-44cd-931f-171fc5ceaa47",
+        "movieTitle": "Down-sized transitional Internet solution",
+        "earnings": 2348.23,
+        "releaseYear": 1981,
+        "genre": "Thriller",
+        "rating": 3.4
+      },
+      {
+        "movieId": "8bb752ad-6ea8-4b52-b0af-ed7a1edf0b16",
+        "movieTitle": "Automated background secured line",
+        "earnings": 1777.12,
+        "releaseYear": 2006,
+        "genre": "Action",
+        "rating": 3.1
+      },
+      {
+        "movieId": "53468940-abe5-4bf3-bb41-c9c26260af2d",
+        "movieTitle": "Managed demand-driven structure",
+        "earnings": 2357.34,
+        "releaseYear": 1993,
+        "genre": "Drama",
+        "rating": 9.5
+      },
+      {
+        "movieId": "a0b3d276-3067-45b0-abc1-728da2049f9d",
+        "movieTitle": "Customizable reciprocal process improvement",
+        "earnings": 2318.46,
+        "releaseYear": 1986,
+        "genre": "Action",
+        "rating": 8.8
+      }
+    ]
+  },
+  {
+    "actorId": "bba36bf7-f857-4d4f-b844-0c8b854ba5ba",
+    "actorName": "Joseph Greer",
+    "nationality": "Gibraltar",
+    "earnings": 4995.917883,
+    "percent": 66.87,
+    "role": "Lead Actor",
+    "movies": [
+      {
+        "movieId": "5413e23e-d6a8-4077-914a-f6f61051075e",
+        "movieTitle": "Balanced upward-trending Graphical User Interface",
+        "earnings": 2041.69,
+        "releaseYear": 2019,
+        "genre": "Thriller",
+        "rating": 9.2
+      },
+      {
+        "movieId": "4ab48032-6e8d-463a-a7ee-b28b8ee64052",
+        "movieTitle": "Grass-roots needs-based leverage",
+        "earnings": 1660.03,
+        "releaseYear": 1993,
+        "genre": "Action",
+        "rating": 6.0
+      },
+      {
+        "movieId": "8088cae6-d350-4d84-bc87-5fb84546461f",
+        "movieTitle": "Total logistical conglomeration",
+        "earnings": 2460.87,
+        "releaseYear": 2006,
+        "genre": "Drama",
+        "rating": 9.2
+      },
+      {
+        "movieId": "f9b48b94-4fd0-4c86-83aa-25401139e865",
+        "movieTitle": "Configurable contextually-based initiative",
+        "earnings": 1308.5,
+        "releaseYear": 1994,
+        "genre": "Action",
+        "rating": 6.9
+      }
+    ]
+  },
+  {
+    "actorId": "0633d613-632a-44e9-a2da-41195e05b5d6",
+    "actorName": "Zachary Smith",
+    "nationality": "Costa Rica",
+    "earnings": 2083.582158,
+    "percent": 31.26,
+    "role": "Lead Actor",
+    "movies": [
+      {
+        "movieId": "e975db7d-540f-4f86-8589-12fe64931c97",
+        "movieTitle": "Optimized stable conglomeration",
+        "earnings": 705.62,
+        "releaseYear": 2008,
+        "genre": "Action",
+        "rating": 6.8
+      },
+      {
+        "movieId": "f0b9c3ec-a201-419a-ba9d-fee2b0669fc6",
+        "movieTitle": "Monitored even-keeled budgetary management",
+        "earnings": 792.38,
+        "releaseYear": 1984,
+        "genre": "Comedy",
+        "rating": 4.1
+      },
+      {
+        "movieId": "8fad0bbe-eed4-4242-a6e2-e8abac3f465e",
+        "movieTitle": "Down-sized holistic knowledgebase",
+        "earnings": 1561.72,
+        "releaseYear": 1993,
+        "genre": "Comedy",
+        "rating": 3.4
+      },
+      {
+        "movieId": "a248e025-837a-46ff-ae2a-f5ce60562944",
+        "movieTitle": "Programmable empowering workforce",
+        "earnings": 1392.03,
+        "releaseYear": 2002,
+        "genre": "Drama",
+        "rating": 6.9
+      },
+      {
+        "movieId": "fe347ad4-fd94-46e5-b0cb-0be82fc71a99",
+        "movieTitle": "De-engineered real-time project",
+        "earnings": 2213.58,
+        "releaseYear": 2008,
+        "genre": "Thriller",
+        "rating": 8.2
+      }
+    ]
+  },
+  {
+    "actorId": "1c21002c-3cb0-4f3f-8345-5ad0b3e9f2b6",
+    "actorName": "Bruce Yang",
+    "nationality": "Portugal",
+    "earnings": 2756.0225279999995,
+    "percent": 42.07,
+    "role": "Antagonist",
+    "movies": [
+      {
+        "movieId": "5a77e953-e6d5-46d0-b10f-0660f2aef587",
+        "movieTitle": "Persevering context-sensitive conglomeration",
+        "earnings": 1529.87,
+        "releaseYear": 1999,
+        "genre": "Thriller",
+        "rating": 8.6
+      },
+      {
+        "movieId": "12654750-066e-41cc-8c42-27ccb62ac1ab",
+        "movieTitle": "Universal intangible moderator",
+        "earnings": 1014.96,
+        "releaseYear": 2011,
+        "genre": "Comedy",
+        "rating": 1.5
+      },
+      {
+        "movieId": "94361b93-d849-4ab6-88da-428503de4fc6",
+        "movieTitle": "Operative methodical attitude",
+        "earnings": 2188.49,
+        "releaseYear": 1982,
+        "genre": "Thriller",
+        "rating": 8.1
+      },
+      {
+        "movieId": "3ea7624a-feb8-4efa-bc70-d2bf3cec0137",
+        "movieTitle": "Open-architected incremental hub",
+        "earnings": 1817.72,
+        "releaseYear": 1981,
+        "genre": "Action",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "actorId": "c06dc16e-dab7-449c-9313-caafa5fa356a",
+    "actorName": "Jackie Diaz",
+    "nationality": "Honduras",
+    "earnings": 1473.3791460000002,
+    "percent": 18.03,
+    "role": "Supporting Actor",
+    "movies": [
+      {
+        "movieId": "3995fa3c-0e8e-4a4b-a1f3-9eda52cefbea",
+        "movieTitle": "Grass-roots solution-oriented attitude",
+        "earnings": 1624.55,
+        "releaseYear": 1998,
+        "genre": "Thriller",
+        "rating": 2.4
+      },
+      {
+        "movieId": "55b6687c-de77-4184-b3b6-c9e46f3a3268",
+        "movieTitle": "Assimilated analyzing framework",
+        "earnings": 2911.36,
+        "releaseYear": 2006,
+        "genre": "Drama",
+        "rating": 1.8
+      },
+      {
+        "movieId": "bc37ec2e-9593-422f-98dc-ccff08659afd",
+        "movieTitle": "Right-sized modular extranet",
+        "earnings": 1328.09,
+        "releaseYear": 2000,
+        "genre": "Drama",
+        "rating": 9.0
+      },
+      {
+        "movieId": "cc737fe0-7e10-4e04-8fbd-a9d5e9c12c9b",
+        "movieTitle": "Open-source reciprocal functionalities",
+        "earnings": 2307.82,
+        "releaseYear": 2006,
+        "genre": "Action",
+        "rating": 7.4
+      }
+    ]
+  },
+  {
+    "actorId": "fb8986a7-5e03-445d-8664-5de47b5caabd",
+    "actorName": "Holly Moody",
+    "nationality": "Kyrgyz Republic",
+    "earnings": 3357.4244480000007,
+    "percent": 37.49,
+    "role": "Supporting Actor",
+    "movies": [
+      {
+        "movieId": "f7b4ddc7-480a-4d86-88d8-cb3d4b793d0f",
+        "movieTitle": "Mandatory multi-state monitoring",
+        "earnings": 1668.38,
+        "releaseYear": 1980,
+        "genre": "Thriller",
+        "rating": 9.6
+      },
+      {
+        "movieId": "2bcf8b17-698d-47ef-a660-7bcaf668c180",
+        "movieTitle": "Multi-channeled context-sensitive time-frame",
+        "earnings": 692.25,
+        "releaseYear": 2010,
+        "genre": "Drama",
+        "rating": 7.5
+      },
+      {
+        "movieId": "825581dd-ef3b-49ad-b255-8e99a7d86737",
+        "movieTitle": "Universal maximized application",
+        "earnings": 2902.27,
+        "releaseYear": 1982,
+        "genre": "Thriller",
+        "rating": 5.0
+      },
+      {
+        "movieId": "68e3328a-c21b-4aba-8468-f8bb3b2b2829",
+        "movieTitle": "Re-contextualized uniform moderator",
+        "earnings": 2039.62,
+        "releaseYear": 2001,
+        "genre": "Comedy",
+        "rating": 3.2
+      },
+      {
+        "movieId": "5d975f4e-a692-4c9e-b0d2-380915e2cb55",
+        "movieTitle": "Expanded scalable Internet solution",
+        "earnings": 757.16,
+        "releaseYear": 2011,
+        "genre": "Thriller",
+        "rating": 4.3
+      },
+      {
+        "movieId": "0aa89854-8c6e-4d8d-a8b0-e39d697db84e",
+        "movieTitle": "Public-key clear-thinking interface",
+        "earnings": 895.84,
+        "releaseYear": 1989,
+        "genre": "Drama",
+        "rating": 7.4
+      }
+    ]
+  },
+  {
+    "actorId": "9e0b9361-8c2b-49e0-834f-d66237500c13",
+    "actorName": "Russell Williams",
+    "nationality": "Nepal",
+    "earnings": 6909.187935999998,
+    "percent": 68.32,
+    "role": "Lead Actor",
+    "movies": [
+      {
+        "movieId": "4f0bc312-7735-4d64-a27b-1a4c6ca49814",
+        "movieTitle": "Optional discrete approach",
+        "earnings": 1919.71,
+        "releaseYear": 2012,
+        "genre": "Comedy",
+        "rating": 5.9
+      },
+      {
+        "movieId": "36558831-72dc-4b93-85c3-2c85ce6184dc",
+        "movieTitle": "Function-based system-worthy core",
+        "earnings": 2531.25,
+        "releaseYear": 1991,
+        "genre": "Thriller",
+        "rating": 5.4
+      },
+      {
+        "movieId": "aa2d1ee4-8026-46d1-af57-f4c5c84c97ed",
+        "movieTitle": "Proactive composite circuit",
+        "earnings": 2451.35,
+        "releaseYear": 2020,
+        "genre": "Thriller",
+        "rating": 2.5
+      },
+      {
+        "movieId": "38f4f694-e1a4-442e-9288-2200939dc849",
+        "movieTitle": "User-centric multi-tasking support",
+        "earnings": 995.16,
+        "releaseYear": 1980,
+        "genre": "Drama",
+        "rating": 7.7
+      },
+      {
+        "movieId": "0f12073d-e042-44c2-977b-ca8c62e1c406",
+        "movieTitle": "Profound asynchronous circuit",
+        "earnings": 720.3,
+        "releaseYear": 2005,
+        "genre": "Thriller",
+        "rating": 9.8
+      },
+      {
+        "movieId": "af39f892-4f68-4a9a-8eaa-2f9fdbfa645e",
+        "movieTitle": "De-engineered full-range strategy",
+        "earnings": 1495.21,
+        "releaseYear": 2014,
+        "genre": "Thriller",
+        "rating": 3.9
+      }
+    ]
+  },
+  {
+    "actorId": "94b82bcb-6bed-4344-a2c6-19514dd444a0",
+    "actorName": "Mrs. Kristen Scott",
+    "nationality": "Uganda",
+    "earnings": 1008.4476960000001,
+    "percent": 11.64,
+    "role": "Lead Actor",
+    "movies": [
+      {
+        "movieId": "6635cf95-297f-42ab-98de-7ac41f725a65",
+        "movieTitle": "Focused regional success",
+        "earnings": 1183.86,
+        "releaseYear": 2014,
+        "genre": "Action",
+        "rating": 9.6
+      },
+      {
+        "movieId": "9674c82e-4ef6-4934-b17d-54325af9efda",
+        "movieTitle": "Vision-oriented heuristic interface",
+        "earnings": 2160.02,
+        "releaseYear": 1983,
+        "genre": "Drama",
+        "rating": 1.7
+      },
+      {
+        "movieId": "be0b407b-c132-42ad-b21a-f2351a1da979",
+        "movieTitle": "Front-line bi-directional concept",
+        "earnings": 2086.5,
+        "releaseYear": 1983,
+        "genre": "Thriller",
+        "rating": 4.2
+      },
+      {
+        "movieId": "d7eaf0b8-e986-4517-8f57-d68cb39738f1",
+        "movieTitle": "Reduced transitional budgetary management",
+        "earnings": 1932.21,
+        "releaseYear": 1993,
+        "genre": "Action",
+        "rating": 2.1
+      },
+      {
+        "movieId": "b47c3c9c-4adf-4b76-b957-1365e538e9f5",
+        "movieTitle": "Centralized content-based info-mediaries",
+        "earnings": 783.46,
+        "releaseYear": 1992,
+        "genre": "Thriller",
+        "rating": 9.1
+      },
+      {
+        "movieId": "65995c8e-0019-4409-b63d-ff007c7c5e01",
+        "movieTitle": "Seamless dynamic framework",
+        "earnings": 517.59,
+        "releaseYear": 1981,
+        "genre": "Action",
+        "rating": 5.2
+      }
+    ]
+  }
+]

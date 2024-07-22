@@ -1,0 +1,740 @@
+[
+  {
+    "machine_id": 1,
+    "brand": "Samsung",
+    "model": "Dryer",
+    "year": 2019,
+    "price": 1613.26,
+    "is_ready": false,
+    "repairs": [
+      {
+        "repair_id": "R1-1",
+        "issue": "Others something expect chair work from two fear.",
+        "repair_cost": 292.25,
+        "technician": "Ian Willis",
+        "is_fixed": false,
+        "repair_date": "2023-11-18"
+      },
+      {
+        "repair_id": "R1-2",
+        "issue": "Worker travel effect writer.",
+        "repair_cost": 301.1,
+        "technician": "Nicole Brown",
+        "is_fixed": false,
+        "repair_date": "2023-05-26"
+      },
+      {
+        "repair_id": "R1-3",
+        "issue": "Theory media her federal.",
+        "repair_cost": 74.68,
+        "technician": "April Cooper",
+        "is_fixed": false,
+        "repair_date": "2023-09-03"
+      }
+    ]
+  },
+  {
+    "machine_id": 2,
+    "brand": "Sony",
+    "model": "Washer",
+    "year": 2010,
+    "price": 558.59,
+    "is_ready": false,
+    "repairs": [
+      {
+        "repair_id": "R2-1",
+        "issue": "Poor young always because adult will step.",
+        "repair_cost": 208.77,
+        "technician": "Steven Oconnor",
+        "is_fixed": false,
+        "repair_date": "2023-02-05"
+      }
+    ]
+  },
+  {
+    "machine_id": 3,
+    "brand": "Panasonic",
+    "model": "Washer",
+    "year": 2013,
+    "price": 1921.29,
+    "is_ready": false,
+    "repairs": [
+      {
+        "repair_id": "R3-1",
+        "issue": "Allow hold most meet develop either.",
+        "repair_cost": 299.64,
+        "technician": "Stephen Shah",
+        "is_fixed": false,
+        "repair_date": "2023-06-04"
+      },
+      {
+        "repair_id": "R3-2",
+        "issue": "Style high keep subject edge learn.",
+        "repair_cost": 454.36,
+        "technician": "Roberta Erickson",
+        "is_fixed": false,
+        "repair_date": "2024-01-12"
+      },
+      {
+        "repair_id": "R3-3",
+        "issue": "Organization other computer song.",
+        "repair_cost": 276.38,
+        "technician": "Shaun Schultz",
+        "is_fixed": false,
+        "repair_date": "2023-02-23"
+      }
+    ]
+  },
+  {
+    "machine_id": 4,
+    "brand": "Panasonic",
+    "model": "Washer",
+    "year": 2018,
+    "price": 841.82,
+    "is_ready": false,
+    "repairs": [
+      {
+        "repair_id": "R4-1",
+        "issue": "Special responsibility mind item light strategy.",
+        "repair_cost": 68.72,
+        "technician": "Shannon Moody",
+        "is_fixed": false,
+        "repair_date": "2023-03-20"
+      }
+    ]
+  },
+  {
+    "machine_id": 5,
+    "brand": "Sony",
+    "model": "Dryer",
+    "year": 2013,
+    "price": 599.73,
+    "is_ready": false,
+    "repairs": [
+      {
+        "repair_id": "R5-1",
+        "issue": "Close buy make item nation reach detail matter.",
+        "repair_cost": 66.11,
+        "technician": "Karen White",
+        "is_fixed": false,
+        "repair_date": "2023-03-27"
+      },
+      {
+        "repair_id": "R5-2",
+        "issue": "Name human list task a.",
+        "repair_cost": 420.27,
+        "technician": "Yvonne Powell",
+        "is_fixed": false,
+        "repair_date": "2023-10-03"
+      },
+      {
+        "repair_id": "R5-3",
+        "issue": "Not partner open what teacher.",
+        "repair_cost": 65.36,
+        "technician": "Scott Ramsey",
+        "is_fixed": false,
+        "repair_date": "2023-08-10"
+      }
+    ]
+  },
+  {
+    "machine_id": 6,
+    "brand": "Sony",
+    "model": "Refrigerator",
+    "year": 2016,
+    "price": 787.01,
+    "is_ready": false,
+    "repairs": [
+      {
+        "repair_id": "R6-1",
+        "issue": "Issue prevent maybe walk professional.",
+        "repair_cost": 302.03,
+        "technician": "Eric Miller",
+        "is_fixed": false,
+        "repair_date": "2023-06-09"
+      },
+      {
+        "repair_id": "R6-2",
+        "issue": "Never adult challenge his three spring.",
+        "repair_cost": 237.49,
+        "technician": "Miss Natalie Perry MD",
+        "is_fixed": false,
+        "repair_date": "2023-12-02"
+      },
+      {
+        "repair_id": "R6-3",
+        "issue": "Finally others nothing artist know mind computer.",
+        "repair_cost": 105.21,
+        "technician": "Rachel Campbell",
+        "is_fixed": false,
+        "repair_date": "2023-08-15"
+      },
+      {
+        "repair_id": "R6-4",
+        "issue": "Everyone money site have.",
+        "repair_cost": 61.7,
+        "technician": "Sean Crawford",
+        "is_fixed": false,
+        "repair_date": "2023-06-18"
+      }
+    ]
+  },
+  {
+    "machine_id": 7,
+    "brand": "Panasonic",
+    "model": "Washer",
+    "year": 2018,
+    "price": 1307.62,
+    "is_ready": false,
+    "repairs": [
+      {
+        "repair_id": "R7-1",
+        "issue": "Subject pick argue close husband charge.",
+        "repair_cost": 57.54,
+        "technician": "Justin Murray",
+        "is_fixed": false,
+        "repair_date": "2023-08-13"
+      },
+      {
+        "repair_id": "R7-2",
+        "issue": "Down author enter coach to feeling green.",
+        "repair_cost": 118.78,
+        "technician": "Daniel Carter",
+        "is_fixed": false,
+        "repair_date": "2023-08-16"
+      },
+      {
+        "repair_id": "R7-3",
+        "issue": "Be little parent form increase.",
+        "repair_cost": 284.24,
+        "technician": "Zachary Dickson",
+        "is_fixed": false,
+        "repair_date": "2023-09-19"
+      }
+    ]
+  },
+  {
+    "machine_id": 8,
+    "brand": "Panasonic",
+    "model": "Washer",
+    "year": 2019,
+    "price": 1329.3,
+    "is_ready": false,
+    "repairs": [
+      {
+        "repair_id": "R8-1",
+        "issue": "Theory five wear pick simple religious trade job.",
+        "repair_cost": 87.16,
+        "technician": "Brian Logan",
+        "is_fixed": false,
+        "repair_date": "2023-06-21"
+      },
+      {
+        "repair_id": "R8-2",
+        "issue": "Serious leg level specific issue produce understand.",
+        "repair_cost": 382.1,
+        "technician": "Angela Murphy",
+        "is_fixed": false,
+        "repair_date": "2023-08-30"
+      },
+      {
+        "repair_id": "R8-3",
+        "issue": "Contain kind discover benefit.",
+        "repair_cost": 148.5,
+        "technician": "Crystal Sanchez",
+        "is_fixed": false,
+        "repair_date": "2023-08-25"
+      },
+      {
+        "repair_id": "R8-4",
+        "issue": "Despite start challenge into important thing show.",
+        "repair_cost": 456.12,
+        "technician": "Jerry Jones",
+        "is_fixed": false,
+        "repair_date": "2023-10-12"
+      }
+    ]
+  },
+  {
+    "machine_id": 9,
+    "brand": "LG",
+    "model": "Refrigerator",
+    "year": 2013,
+    "price": 1114.84,
+    "is_ready": false,
+    "repairs": [
+      {
+        "repair_id": "R9-1",
+        "issue": "Space push rule above stay partner term name.",
+        "repair_cost": 192.14,
+        "technician": "Cynthia Martinez",
+        "is_fixed": false,
+        "repair_date": "2023-03-04"
+      }
+    ]
+  },
+  {
+    "machine_id": 10,
+    "brand": "Samsung",
+    "model": "Refrigerator",
+    "year": 2013,
+    "price": 1486.45,
+    "is_ready": false,
+    "repairs": [
+      {
+        "repair_id": "R10-1",
+        "issue": "Chair activity reveal adult method.",
+        "repair_cost": 242.64,
+        "technician": "Hector Hawkins",
+        "is_fixed": false,
+        "repair_date": "2023-05-31"
+      },
+      {
+        "repair_id": "R10-2",
+        "issue": "Yard mother deep key.",
+        "repair_cost": 445.01,
+        "technician": "Walter Krause",
+        "is_fixed": false,
+        "repair_date": "2023-04-23"
+      },
+      {
+        "repair_id": "R10-3",
+        "issue": "Section sell teacher traditional.",
+        "repair_cost": 330.55,
+        "technician": "Loretta Clarke",
+        "is_fixed": false,
+        "repair_date": "2023-11-21"
+      },
+      {
+        "repair_id": "R10-4",
+        "issue": "Mrs once production back.",
+        "repair_cost": 288.16,
+        "technician": "Tiffany Hernandez",
+        "is_fixed": false,
+        "repair_date": "2023-07-09"
+      }
+    ]
+  },
+  {
+    "machine_id": 11,
+    "brand": "LG",
+    "model": "Washer",
+    "year": 2017,
+    "price": 373.96,
+    "is_ready": false,
+    "repairs": [
+      {
+        "repair_id": "R11-1",
+        "issue": "Enough scientist pattern line page weight song.",
+        "repair_cost": 338.95,
+        "technician": "Dr. Christopher Robertson",
+        "is_fixed": false,
+        "repair_date": "2023-04-17"
+      }
+    ]
+  },
+  {
+    "machine_id": 12,
+    "brand": "Panasonic",
+    "model": "Refrigerator",
+    "year": 2014,
+    "price": 738.59,
+    "is_ready": false,
+    "repairs": [
+      {
+        "repair_id": "R12-1",
+        "issue": "Single speak specific because.",
+        "repair_cost": 92.11,
+        "technician": "Brian Parker",
+        "is_fixed": false,
+        "repair_date": "2023-08-07"
+      },
+      {
+        "repair_id": "R12-2",
+        "issue": "Whether local really quite organization we key about.",
+        "repair_cost": 481.37,
+        "technician": "Kyle Pierce",
+        "is_fixed": false,
+        "repair_date": "2023-12-27"
+      },
+      {
+        "repair_id": "R12-3",
+        "issue": "Guess much hit skill now week development sometimes.",
+        "repair_cost": 391.87,
+        "technician": "Walter Sanchez",
+        "is_fixed": false,
+        "repair_date": "2023-07-03"
+      }
+    ]
+  },
+  {
+    "machine_id": 13,
+    "brand": "Samsung",
+    "model": "Dishwasher",
+    "year": 2017,
+    "price": 1525.4,
+    "is_ready": false,
+    "repairs": [
+      {
+        "repair_id": "R13-1",
+        "issue": "Off plan water.",
+        "repair_cost": 280.56,
+        "technician": "Christina Scott",
+        "is_fixed": false,
+        "repair_date": "2023-05-10"
+      },
+      {
+        "repair_id": "R13-2",
+        "issue": "Force can option red admit.",
+        "repair_cost": 141.54,
+        "technician": "Brian Carter",
+        "is_fixed": false,
+        "repair_date": "2023-08-28"
+      },
+      {
+        "repair_id": "R13-3",
+        "issue": "Them mission catch price.",
+        "repair_cost": 499.76,
+        "technician": "Megan Gallegos",
+        "is_fixed": false,
+        "repair_date": "2023-10-12"
+      }
+    ]
+  },
+  {
+    "machine_id": 14,
+    "brand": "Samsung",
+    "model": "Dryer",
+    "year": 2012,
+    "price": 875.46,
+    "is_ready": false,
+    "repairs": [
+      {
+        "repair_id": "R14-1",
+        "issue": "Skin free trade produce.",
+        "repair_cost": 174.13,
+        "technician": "Erica Hernandez",
+        "is_fixed": false,
+        "repair_date": "2023-11-17"
+      },
+      {
+        "repair_id": "R14-2",
+        "issue": "Music difficult cell speech source out.",
+        "repair_cost": 101.08,
+        "technician": "Leah Williams",
+        "is_fixed": false,
+        "repair_date": "2023-07-16"
+      },
+      {
+        "repair_id": "R14-3",
+        "issue": "Claim service writer.",
+        "repair_cost": 384.82,
+        "technician": "Lauren Watson",
+        "is_fixed": false,
+        "repair_date": "2023-05-30"
+      },
+      {
+        "repair_id": "R14-4",
+        "issue": "Hold wish show factor.",
+        "repair_cost": 102.28,
+        "technician": "David Rowe",
+        "is_fixed": false,
+        "repair_date": "2023-03-29"
+      }
+    ]
+  },
+  {
+    "machine_id": 15,
+    "brand": "Sony",
+    "model": "Dishwasher",
+    "year": 2012,
+    "price": 310.17,
+    "is_ready": false,
+    "repairs": [
+      {
+        "repair_id": "R15-1",
+        "issue": "Could if mother point region list team small.",
+        "repair_cost": 252.76,
+        "technician": "Shannon Wilson",
+        "is_fixed": false,
+        "repair_date": "2023-07-20"
+      }
+    ]
+  },
+  {
+    "machine_id": 16,
+    "brand": "Panasonic",
+    "model": "Washer",
+    "year": 2021,
+    "price": 1268.44,
+    "is_ready": false,
+    "repairs": [
+      {
+        "repair_id": "R16-1",
+        "issue": "Significant material why rise establish visit.",
+        "repair_cost": 101.74,
+        "technician": "Michael Jackson",
+        "is_fixed": false,
+        "repair_date": "2023-11-11"
+      },
+      {
+        "repair_id": "R16-2",
+        "issue": "Almost bad adult story.",
+        "repair_cost": 465.26,
+        "technician": "Tracy Guerrero",
+        "is_fixed": false,
+        "repair_date": "2023-07-14"
+      },
+      {
+        "repair_id": "R16-3",
+        "issue": "Claim final during thought.",
+        "repair_cost": 488.13,
+        "technician": "Daniel Anderson",
+        "is_fixed": false,
+        "repair_date": "2023-09-11"
+      },
+      {
+        "repair_id": "R16-4",
+        "issue": "Every music our certainly.",
+        "repair_cost": 295.89,
+        "technician": "Kendra Rose",
+        "is_fixed": false,
+        "repair_date": "2023-11-03"
+      }
+    ]
+  },
+  {
+    "machine_id": 17,
+    "brand": "LG",
+    "model": "Dishwasher",
+    "year": 2017,
+    "price": 549.14,
+    "is_ready": false,
+    "repairs": [
+      {
+        "repair_id": "R17-1",
+        "issue": "Difference society once at wide sure.",
+        "repair_cost": 348.8,
+        "technician": "Miguel King",
+        "is_fixed": false,
+        "repair_date": "2024-01-12"
+      },
+      {
+        "repair_id": "R17-2",
+        "issue": "Song garden lay decide.",
+        "repair_cost": 276.04,
+        "technician": "Catherine Campbell",
+        "is_fixed": false,
+        "repair_date": "2023-12-14"
+      },
+      {
+        "repair_id": "R17-3",
+        "issue": "Nature guy fire bit although key.",
+        "repair_cost": 85.9,
+        "technician": "Richard Williams",
+        "is_fixed": false,
+        "repair_date": "2023-02-22"
+      },
+      {
+        "repair_id": "R17-4",
+        "issue": "Language choose carry score tonight.",
+        "repair_cost": 166.62,
+        "technician": "Elizabeth Guerrero",
+        "is_fixed": false,
+        "repair_date": "2024-02-02"
+      }
+    ]
+  },
+  {
+    "machine_id": 18,
+    "brand": "Sony",
+    "model": "Dryer",
+    "year": 2019,
+    "price": 652.51,
+    "is_ready": false,
+    "repairs": [
+      {
+        "repair_id": "R18-1",
+        "issue": "Worker involve crime power almost.",
+        "repair_cost": 474.26,
+        "technician": "Marilyn Bowman",
+        "is_fixed": false,
+        "repair_date": "2023-02-28"
+      },
+      {
+        "repair_id": "R18-2",
+        "issue": "Share affect increase door.",
+        "repair_cost": 196.1,
+        "technician": "Benjamin Garcia",
+        "is_fixed": false,
+        "repair_date": "2023-08-16"
+      },
+      {
+        "repair_id": "R18-3",
+        "issue": "Wish education bed structure hospital service open.",
+        "repair_cost": 73.82,
+        "technician": "Barry Lowe",
+        "is_fixed": false,
+        "repair_date": "2023-10-23"
+      }
+    ]
+  },
+  {
+    "machine_id": 19,
+    "brand": "Sony",
+    "model": "Dryer",
+    "year": 2010,
+    "price": 335.25,
+    "is_ready": false,
+    "repairs": [
+      {
+        "repair_id": "R19-1",
+        "issue": "Significant leader office sometimes very.",
+        "repair_cost": 136.38,
+        "technician": "Heather Chavez",
+        "is_fixed": false,
+        "repair_date": "2023-03-30"
+      },
+      {
+        "repair_id": "R19-2",
+        "issue": "Difference chance defense wait member.",
+        "repair_cost": 71.23,
+        "technician": "Todd Clark",
+        "is_fixed": false,
+        "repair_date": "2023-05-02"
+      },
+      {
+        "repair_id": "R19-3",
+        "issue": "Serve notice sign cost option thousand four.",
+        "repair_cost": 62.54,
+        "technician": "Claire Robinson",
+        "is_fixed": false,
+        "repair_date": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "machine_id": 20,
+    "brand": "Sony",
+    "model": "Washer",
+    "year": 2016,
+    "price": 302.02,
+    "is_ready": false,
+    "repairs": [
+      {
+        "repair_id": "R20-1",
+        "issue": "Majority size suggest home record.",
+        "repair_cost": 347.59,
+        "technician": "Cheryl Barron",
+        "is_fixed": false,
+        "repair_date": "2023-12-29"
+      },
+      {
+        "repair_id": "R20-2",
+        "issue": "Clear method catch always.",
+        "repair_cost": 388.14,
+        "technician": "Kyle Lewis",
+        "is_fixed": false,
+        "repair_date": "2023-10-13"
+      },
+      {
+        "repair_id": "R20-3",
+        "issue": "Form dark blue whether.",
+        "repair_cost": 491.99,
+        "technician": "Omar Rivas",
+        "is_fixed": false,
+        "repair_date": "2023-05-14"
+      }
+    ]
+  },
+  {
+    "machine_id": 21,
+    "brand": "LG",
+    "model": "Refrigerator",
+    "year": 2022,
+    "price": 1923.68,
+    "is_ready": false,
+    "repairs": [
+      {
+        "repair_id": "R21-1",
+        "issue": "Member treat activity concern situation.",
+        "repair_cost": 248.51,
+        "technician": "Amanda Kramer",
+        "is_fixed": false,
+        "repair_date": "2024-01-24"
+      }
+    ]
+  },
+  {
+    "machine_id": 22,
+    "brand": "LG",
+    "model": "Washer",
+    "year": 2021,
+    "price": 903.28,
+    "is_ready": false,
+    "repairs": [
+      {
+        "repair_id": "R22-1",
+        "issue": "Cut town project project outside.",
+        "repair_cost": 304.82,
+        "technician": "Michelle Johnson",
+        "is_fixed": false,
+        "repair_date": "2023-11-03"
+      }
+    ]
+  },
+  {
+    "machine_id": 23,
+    "brand": "Panasonic",
+    "model": "Washer",
+    "year": 2013,
+    "price": 491.01,
+    "is_ready": false,
+    "repairs": [
+      {
+        "repair_id": "R23-1",
+        "issue": "Live night success summer able attention road.",
+        "repair_cost": 243.62,
+        "technician": "Brooke Young",
+        "is_fixed": false,
+        "repair_date": "2023-03-26"
+      }
+    ]
+  },
+  {
+    "machine_id": 24,
+    "brand": "Sony",
+    "model": "Washer",
+    "year": 2023,
+    "price": 1498.07,
+    "is_ready": false,
+    "repairs": [
+      {
+        "repair_id": "R24-1",
+        "issue": "Dark buy live rate area country peace.",
+        "repair_cost": 371.55,
+        "technician": "Rebecca Nelson",
+        "is_fixed": false,
+        "repair_date": "2023-10-20"
+      }
+    ]
+  },
+  {
+    "machine_id": 25,
+    "brand": "LG",
+    "model": "Dishwasher",
+    "year": 2012,
+    "price": 468.24,
+    "is_ready": false,
+    "repairs": [
+      {
+        "repair_id": "R25-1",
+        "issue": "Like affect article past.",
+        "repair_cost": 480.16,
+        "technician": "Jonathan Woodward",
+        "is_fixed": false,
+        "repair_date": "2023-09-02"
+      }
+    ]
+  }
+]

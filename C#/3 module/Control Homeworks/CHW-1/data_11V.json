@@ -1,0 +1,1202 @@
+[
+  {
+    "car_id": 1,
+    "brand": "Chevrolet",
+    "model": "Convertible",
+    "year": 2017,
+    "price": 43313.39,
+    "is_used": false,
+    "features": [
+      "GPS",
+      "Backup Camera"
+    ]
+  },
+  {
+    "car_id": 2,
+    "brand": "Chevrolet",
+    "model": "Sedan",
+    "year": 2022,
+    "price": 27153.62,
+    "is_used": true,
+    "features": [
+      "Leather Seats",
+      "GPS",
+      "Bluetooth"
+    ]
+  },
+  {
+    "car_id": 3,
+    "brand": "Honda",
+    "model": "Truck",
+    "year": 2015,
+    "price": 22473.14,
+    "is_used": false,
+    "features": [
+      "Backup Camera"
+    ]
+  },
+  {
+    "car_id": 4,
+    "brand": "Ford",
+    "model": "Truck",
+    "year": 2022,
+    "price": 38993.99,
+    "is_used": true,
+    "features": [
+      "Sunroof",
+      "Backup Camera",
+      "Bluetooth"
+    ]
+  },
+  {
+    "car_id": 5,
+    "brand": "Honda",
+    "model": "SUV",
+    "year": 2019,
+    "price": 37057.18,
+    "is_used": false,
+    "features": [
+      "GPS",
+      "GPS",
+      "Bluetooth"
+    ]
+  },
+  {
+    "car_id": 6,
+    "brand": "Chevrolet",
+    "model": "SUV",
+    "year": 2010,
+    "price": 39284.67,
+    "is_used": false,
+    "features": [
+      "Sunroof"
+    ]
+  },
+  {
+    "car_id": 7,
+    "brand": "Chevrolet",
+    "model": "Truck",
+    "year": 2017,
+    "price": 46895.06,
+    "is_used": true,
+    "features": [
+      "GPS",
+      "Backup Camera",
+      "Leather Seats"
+    ]
+  },
+  {
+    "car_id": 8,
+    "brand": "Ford",
+    "model": "Convertible",
+    "year": 2010,
+    "price": 24049.91,
+    "is_used": false,
+    "features": [
+      "Backup Camera"
+    ]
+  },
+  {
+    "car_id": 9,
+    "brand": "Toyota",
+    "model": "SUV",
+    "year": 2015,
+    "price": 19240.16,
+    "is_used": false,
+    "features": [
+      "Sunroof",
+      "Bluetooth",
+      "Backup Camera"
+    ]
+  },
+  {
+    "car_id": 10,
+    "brand": "Honda",
+    "model": "Convertible",
+    "year": 2018,
+    "price": 16165.55,
+    "is_used": true,
+    "features": [
+      "GPS",
+      "Sunroof"
+    ]
+  },
+  {
+    "car_id": 11,
+    "brand": "Honda",
+    "model": "Convertible",
+    "year": 2019,
+    "price": 24454.8,
+    "is_used": true,
+    "features": [
+      "Backup Camera"
+    ]
+  },
+  {
+    "car_id": 12,
+    "brand": "Chevrolet",
+    "model": "Convertible",
+    "year": 2016,
+    "price": 28061.3,
+    "is_used": false,
+    "features": [
+      "Backup Camera"
+    ]
+  },
+  {
+    "car_id": 13,
+    "brand": "Chevrolet",
+    "model": "SUV",
+    "year": 2016,
+    "price": 18328.58,
+    "is_used": true,
+    "features": [
+      "Bluetooth",
+      "Backup Camera"
+    ]
+  },
+  {
+    "car_id": 14,
+    "brand": "Chevrolet",
+    "model": "SUV",
+    "year": 2015,
+    "price": 17249.24,
+    "is_used": true,
+    "features": [
+      "Backup Camera",
+      "Bluetooth"
+    ]
+  },
+  {
+    "car_id": 15,
+    "brand": "Ford",
+    "model": "Convertible",
+    "year": 2017,
+    "price": 44704.66,
+    "is_used": false,
+    "features": [
+      "Bluetooth",
+      "Sunroof"
+    ]
+  },
+  {
+    "car_id": 16,
+    "brand": "Toyota",
+    "model": "SUV",
+    "year": 2019,
+    "price": 39310.95,
+    "is_used": true,
+    "features": [
+      "Leather Seats"
+    ]
+  },
+  {
+    "car_id": 17,
+    "brand": "Chevrolet",
+    "model": "Truck",
+    "year": 2015,
+    "price": 20793.74,
+    "is_used": true,
+    "features": [
+      "Sunroof",
+      "Sunroof",
+      "Leather Seats"
+    ]
+  },
+  {
+    "car_id": 18,
+    "brand": "Ford",
+    "model": "Truck",
+    "year": 2010,
+    "price": 28790.46,
+    "is_used": true,
+    "features": [
+      "Sunroof"
+    ]
+  },
+  {
+    "car_id": 19,
+    "brand": "Ford",
+    "model": "Sedan",
+    "year": 2015,
+    "price": 15857.47,
+    "is_used": true,
+    "features": [
+      "Leather Seats",
+      "Leather Seats",
+      "GPS"
+    ]
+  },
+  {
+    "car_id": 20,
+    "brand": "Ford",
+    "model": "Sedan",
+    "year": 2017,
+    "price": 33483.88,
+    "is_used": true,
+    "features": [
+      "Sunroof"
+    ]
+  },
+  {
+    "car_id": 21,
+    "brand": "Ford",
+    "model": "SUV",
+    "year": 2016,
+    "price": 36082.68,
+    "is_used": false,
+    "features": [
+      "Backup Camera",
+      "GPS",
+      "Bluetooth"
+    ]
+  },
+  {
+    "car_id": 22,
+    "brand": "Honda",
+    "model": "Truck",
+    "year": 2012,
+    "price": 46378.21,
+    "is_used": true,
+    "features": [
+      "GPS"
+    ]
+  },
+  {
+    "car_id": 23,
+    "brand": "Ford",
+    "model": "Truck",
+    "year": 2010,
+    "price": 19188.85,
+    "is_used": false,
+    "features": [
+      "GPS",
+      "Backup Camera",
+      "Backup Camera"
+    ]
+  },
+  {
+    "car_id": 24,
+    "brand": "Toyota",
+    "model": "Convertible",
+    "year": 2014,
+    "price": 39867.38,
+    "is_used": true,
+    "features": [
+      "Sunroof",
+      "Sunroof"
+    ]
+  },
+  {
+    "car_id": 25,
+    "brand": "Chevrolet",
+    "model": "Convertible",
+    "year": 2019,
+    "price": 25272.69,
+    "is_used": true,
+    "features": [
+      "Sunroof",
+      "Backup Camera"
+    ]
+  },
+  {
+    "car_id": 26,
+    "brand": "Toyota",
+    "model": "Truck",
+    "year": 2023,
+    "price": 46484.01,
+    "is_used": true,
+    "features": [
+      "Backup Camera",
+      "Sunroof",
+      "Bluetooth"
+    ]
+  },
+  {
+    "car_id": 27,
+    "brand": "Honda",
+    "model": "Convertible",
+    "year": 2013,
+    "price": 15715.73,
+    "is_used": true,
+    "features": [
+      "Leather Seats"
+    ]
+  },
+  {
+    "car_id": 28,
+    "brand": "Toyota",
+    "model": "SUV",
+    "year": 2011,
+    "price": 29883.31,
+    "is_used": false,
+    "features": [
+      "GPS"
+    ]
+  },
+  {
+    "car_id": 29,
+    "brand": "Toyota",
+    "model": "SUV",
+    "year": 2018,
+    "price": 34478.0,
+    "is_used": true,
+    "features": [
+      "Bluetooth",
+      "Backup Camera"
+    ]
+  },
+  {
+    "car_id": 30,
+    "brand": "Ford",
+    "model": "SUV",
+    "year": 2010,
+    "price": 45597.24,
+    "is_used": true,
+    "features": [
+      "GPS",
+      "GPS",
+      "Backup Camera"
+    ]
+  },
+  {
+    "car_id": 31,
+    "brand": "Honda",
+    "model": "Convertible",
+    "year": 2018,
+    "price": 31712.12,
+    "is_used": false,
+    "features": [
+      "Sunroof"
+    ]
+  },
+  {
+    "car_id": 32,
+    "brand": "Toyota",
+    "model": "Sedan",
+    "year": 2011,
+    "price": 46224.69,
+    "is_used": true,
+    "features": [
+      "Backup Camera"
+    ]
+  },
+  {
+    "car_id": 33,
+    "brand": "Honda",
+    "model": "Convertible",
+    "year": 2020,
+    "price": 44808.88,
+    "is_used": false,
+    "features": [
+      "Leather Seats",
+      "Sunroof",
+      "Sunroof"
+    ]
+  },
+  {
+    "car_id": 34,
+    "brand": "Toyota",
+    "model": "Convertible",
+    "year": 2010,
+    "price": 43163.45,
+    "is_used": false,
+    "features": [
+      "Bluetooth",
+      "Leather Seats"
+    ]
+  },
+  {
+    "car_id": 35,
+    "brand": "Honda",
+    "model": "SUV",
+    "year": 2018,
+    "price": 21500.88,
+    "is_used": true,
+    "features": [
+      "Bluetooth"
+    ]
+  },
+  {
+    "car_id": 36,
+    "brand": "Chevrolet",
+    "model": "Convertible",
+    "year": 2015,
+    "price": 30788.83,
+    "is_used": false,
+    "features": [
+      "Backup Camera",
+      "Bluetooth",
+      "Bluetooth"
+    ]
+  },
+  {
+    "car_id": 37,
+    "brand": "Honda",
+    "model": "Sedan",
+    "year": 2014,
+    "price": 28135.5,
+    "is_used": true,
+    "features": [
+      "GPS",
+      "GPS",
+      "Backup Camera"
+    ]
+  },
+  {
+    "car_id": 38,
+    "brand": "Chevrolet",
+    "model": "Convertible",
+    "year": 2015,
+    "price": 37815.6,
+    "is_used": false,
+    "features": [
+      "Leather Seats",
+      "GPS",
+      "GPS"
+    ]
+  },
+  {
+    "car_id": 39,
+    "brand": "Toyota",
+    "model": "Sedan",
+    "year": 2012,
+    "price": 26932.48,
+    "is_used": false,
+    "features": [
+      "Leather Seats",
+      "Sunroof",
+      "GPS"
+    ]
+  },
+  {
+    "car_id": 40,
+    "brand": "Chevrolet",
+    "model": "Convertible",
+    "year": 2012,
+    "price": 24673.16,
+    "is_used": false,
+    "features": [
+      "Sunroof",
+      "Bluetooth"
+    ]
+  },
+  {
+    "car_id": 41,
+    "brand": "Chevrolet",
+    "model": "Convertible",
+    "year": 2019,
+    "price": 46722.22,
+    "is_used": true,
+    "features": [
+      "Backup Camera",
+      "Backup Camera"
+    ]
+  },
+  {
+    "car_id": 42,
+    "brand": "Toyota",
+    "model": "Convertible",
+    "year": 2011,
+    "price": 28513.71,
+    "is_used": true,
+    "features": [
+      "Leather Seats",
+      "Sunroof",
+      "GPS"
+    ]
+  },
+  {
+    "car_id": 43,
+    "brand": "Toyota",
+    "model": "Sedan",
+    "year": 2012,
+    "price": 41881.76,
+    "is_used": true,
+    "features": [
+      "Backup Camera",
+      "GPS"
+    ]
+  },
+  {
+    "car_id": 44,
+    "brand": "Ford",
+    "model": "Sedan",
+    "year": 2012,
+    "price": 41023.17,
+    "is_used": true,
+    "features": [
+      "Leather Seats",
+      "Sunroof"
+    ]
+  },
+  {
+    "car_id": 45,
+    "brand": "Chevrolet",
+    "model": "Sedan",
+    "year": 2022,
+    "price": 44742.14,
+    "is_used": false,
+    "features": [
+      "Backup Camera"
+    ]
+  },
+  {
+    "car_id": 46,
+    "brand": "Chevrolet",
+    "model": "SUV",
+    "year": 2018,
+    "price": 30800.09,
+    "is_used": true,
+    "features": [
+      "Sunroof"
+    ]
+  },
+  {
+    "car_id": 47,
+    "brand": "Honda",
+    "model": "Truck",
+    "year": 2014,
+    "price": 40922.04,
+    "is_used": false,
+    "features": [
+      "Bluetooth",
+      "Sunroof"
+    ]
+  },
+  {
+    "car_id": 48,
+    "brand": "Honda",
+    "model": "SUV",
+    "year": 2017,
+    "price": 21127.43,
+    "is_used": false,
+    "features": [
+      "Leather Seats",
+      "Backup Camera",
+      "Backup Camera"
+    ]
+  },
+  {
+    "car_id": 49,
+    "brand": "Chevrolet",
+    "model": "Sedan",
+    "year": 2017,
+    "price": 49157.39,
+    "is_used": true,
+    "features": [
+      "Bluetooth",
+      "Backup Camera"
+    ]
+  },
+  {
+    "car_id": 50,
+    "brand": "Chevrolet",
+    "model": "Truck",
+    "year": 2021,
+    "price": 20056.43,
+    "is_used": true,
+    "features": [
+      "Backup Camera",
+      "Bluetooth"
+    ]
+  },
+  {
+    "car_id": 51,
+    "brand": "Toyota",
+    "model": "SUV",
+    "year": 2014,
+    "price": 30031.08,
+    "is_used": true,
+    "features": [
+      "GPS",
+      "Sunroof"
+    ]
+  },
+  {
+    "car_id": 52,
+    "brand": "Chevrolet",
+    "model": "Sedan",
+    "year": 2012,
+    "price": 33597.03,
+    "is_used": false,
+    "features": [
+      "Backup Camera",
+      "Sunroof"
+    ]
+  },
+  {
+    "car_id": 53,
+    "brand": "Honda",
+    "model": "Convertible",
+    "year": 2022,
+    "price": 20636.7,
+    "is_used": false,
+    "features": [
+      "Sunroof",
+      "Leather Seats",
+      "Sunroof"
+    ]
+  },
+  {
+    "car_id": 54,
+    "brand": "Honda",
+    "model": "Sedan",
+    "year": 2013,
+    "price": 40502.46,
+    "is_used": false,
+    "features": [
+      "Bluetooth"
+    ]
+  },
+  {
+    "car_id": 55,
+    "brand": "Ford",
+    "model": "Sedan",
+    "year": 2013,
+    "price": 36424.45,
+    "is_used": false,
+    "features": [
+      "Backup Camera"
+    ]
+  },
+  {
+    "car_id": 56,
+    "brand": "Honda",
+    "model": "Sedan",
+    "year": 2011,
+    "price": 32460.77,
+    "is_used": true,
+    "features": [
+      "Sunroof"
+    ]
+  },
+  {
+    "car_id": 57,
+    "brand": "Chevrolet",
+    "model": "SUV",
+    "year": 2014,
+    "price": 29394.64,
+    "is_used": true,
+    "features": [
+      "Sunroof",
+      "Bluetooth"
+    ]
+  },
+  {
+    "car_id": 58,
+    "brand": "Honda",
+    "model": "Truck",
+    "year": 2019,
+    "price": 22511.21,
+    "is_used": false,
+    "features": [
+      "Bluetooth"
+    ]
+  },
+  {
+    "car_id": 59,
+    "brand": "Honda",
+    "model": "Convertible",
+    "year": 2022,
+    "price": 20541.34,
+    "is_used": false,
+    "features": [
+      "Leather Seats",
+      "Leather Seats",
+      "GPS"
+    ]
+  },
+  {
+    "car_id": 60,
+    "brand": "Toyota",
+    "model": "SUV",
+    "year": 2019,
+    "price": 36083.92,
+    "is_used": true,
+    "features": [
+      "Bluetooth"
+    ]
+  },
+  {
+    "car_id": 61,
+    "brand": "Chevrolet",
+    "model": "Sedan",
+    "year": 2016,
+    "price": 30659.38,
+    "is_used": false,
+    "features": [
+      "GPS",
+      "Leather Seats"
+    ]
+  },
+  {
+    "car_id": 62,
+    "brand": "Toyota",
+    "model": "Sedan",
+    "year": 2022,
+    "price": 38962.97,
+    "is_used": true,
+    "features": [
+      "Sunroof"
+    ]
+  },
+  {
+    "car_id": 63,
+    "brand": "Ford",
+    "model": "SUV",
+    "year": 2013,
+    "price": 45944.4,
+    "is_used": false,
+    "features": [
+      "Sunroof",
+      "Sunroof"
+    ]
+  },
+  {
+    "car_id": 64,
+    "brand": "Ford",
+    "model": "Sedan",
+    "year": 2018,
+    "price": 37543.57,
+    "is_used": false,
+    "features": [
+      "Sunroof"
+    ]
+  },
+  {
+    "car_id": 65,
+    "brand": "Honda",
+    "model": "Convertible",
+    "year": 2018,
+    "price": 41071.94,
+    "is_used": true,
+    "features": [
+      "GPS"
+    ]
+  },
+  {
+    "car_id": 66,
+    "brand": "Honda",
+    "model": "Convertible",
+    "year": 2017,
+    "price": 30760.63,
+    "is_used": true,
+    "features": [
+      "Leather Seats",
+      "Sunroof",
+      "Backup Camera"
+    ]
+  },
+  {
+    "car_id": 67,
+    "brand": "Chevrolet",
+    "model": "SUV",
+    "year": 2010,
+    "price": 43992.2,
+    "is_used": true,
+    "features": [
+      "GPS"
+    ]
+  },
+  {
+    "car_id": 68,
+    "brand": "Toyota",
+    "model": "Truck",
+    "year": 2015,
+    "price": 40383.48,
+    "is_used": true,
+    "features": [
+      "Leather Seats",
+      "Bluetooth",
+      "GPS"
+    ]
+  },
+  {
+    "car_id": 69,
+    "brand": "Chevrolet",
+    "model": "Truck",
+    "year": 2010,
+    "price": 34474.17,
+    "is_used": false,
+    "features": [
+      "GPS",
+      "Bluetooth"
+    ]
+  },
+  {
+    "car_id": 70,
+    "brand": "Honda",
+    "model": "Sedan",
+    "year": 2016,
+    "price": 41903.77,
+    "is_used": true,
+    "features": [
+      "Leather Seats",
+      "Bluetooth",
+      "GPS"
+    ]
+  },
+  {
+    "car_id": 71,
+    "brand": "Honda",
+    "model": "Sedan",
+    "year": 2023,
+    "price": 46126.1,
+    "is_used": false,
+    "features": [
+      "Sunroof"
+    ]
+  },
+  {
+    "car_id": 72,
+    "brand": "Toyota",
+    "model": "Truck",
+    "year": 2012,
+    "price": 45609.7,
+    "is_used": false,
+    "features": [
+      "Sunroof",
+      "GPS"
+    ]
+  },
+  {
+    "car_id": 73,
+    "brand": "Toyota",
+    "model": "Sedan",
+    "year": 2020,
+    "price": 16451.21,
+    "is_used": false,
+    "features": [
+      "Sunroof",
+      "Bluetooth"
+    ]
+  },
+  {
+    "car_id": 74,
+    "brand": "Honda",
+    "model": "SUV",
+    "year": 2018,
+    "price": 17282.13,
+    "is_used": true,
+    "features": [
+      "Sunroof",
+      "Bluetooth",
+      "GPS"
+    ]
+  },
+  {
+    "car_id": 75,
+    "brand": "Toyota",
+    "model": "Truck",
+    "year": 2014,
+    "price": 25305.48,
+    "is_used": true,
+    "features": [
+      "Bluetooth",
+      "GPS",
+      "Bluetooth"
+    ]
+  },
+  {
+    "car_id": 76,
+    "brand": "Ford",
+    "model": "Truck",
+    "year": 2019,
+    "price": 41723.81,
+    "is_used": false,
+    "features": [
+      "Leather Seats",
+      "Bluetooth",
+      "Backup Camera"
+    ]
+  },
+  {
+    "car_id": 77,
+    "brand": "Honda",
+    "model": "SUV",
+    "year": 2018,
+    "price": 24591.42,
+    "is_used": true,
+    "features": [
+      "Sunroof"
+    ]
+  },
+  {
+    "car_id": 78,
+    "brand": "Toyota",
+    "model": "Sedan",
+    "year": 2010,
+    "price": 19179.11,
+    "is_used": true,
+    "features": [
+      "Bluetooth",
+      "Bluetooth"
+    ]
+  },
+  {
+    "car_id": 79,
+    "brand": "Ford",
+    "model": "SUV",
+    "year": 2013,
+    "price": 34705.07,
+    "is_used": true,
+    "features": [
+      "GPS",
+      "Bluetooth",
+      "Bluetooth"
+    ]
+  },
+  {
+    "car_id": 80,
+    "brand": "Honda",
+    "model": "SUV",
+    "year": 2019,
+    "price": 25591.44,
+    "is_used": false,
+    "features": [
+      "GPS",
+      "Leather Seats",
+      "Backup Camera"
+    ]
+  },
+  {
+    "car_id": 81,
+    "brand": "Toyota",
+    "model": "Convertible",
+    "year": 2013,
+    "price": 21796.7,
+    "is_used": false,
+    "features": [
+      "Bluetooth",
+      "Sunroof",
+      "Bluetooth"
+    ]
+  },
+  {
+    "car_id": 82,
+    "brand": "Honda",
+    "model": "Convertible",
+    "year": 2023,
+    "price": 32862.79,
+    "is_used": true,
+    "features": [
+      "Bluetooth",
+      "Bluetooth"
+    ]
+  },
+  {
+    "car_id": 83,
+    "brand": "Toyota",
+    "model": "SUV",
+    "year": 2021,
+    "price": 15727.65,
+    "is_used": true,
+    "features": [
+      "Sunroof",
+      "Bluetooth"
+    ]
+  },
+  {
+    "car_id": 84,
+    "brand": "Toyota",
+    "model": "Sedan",
+    "year": 2012,
+    "price": 45892.28,
+    "is_used": false,
+    "features": [
+      "Sunroof"
+    ]
+  },
+  {
+    "car_id": 85,
+    "brand": "Chevrolet",
+    "model": "Truck",
+    "year": 2015,
+    "price": 23523.47,
+    "is_used": true,
+    "features": [
+      "GPS",
+      "Backup Camera"
+    ]
+  },
+  {
+    "car_id": 86,
+    "brand": "Toyota",
+    "model": "Truck",
+    "year": 2015,
+    "price": 29513.66,
+    "is_used": true,
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Sunroof"
+    ]
+  },
+  {
+    "car_id": 87,
+    "brand": "Toyota",
+    "model": "Convertible",
+    "year": 2021,
+    "price": 26013.25,
+    "is_used": false,
+    "features": [
+      "GPS",
+      "Leather Seats"
+    ]
+  },
+  {
+    "car_id": 88,
+    "brand": "Ford",
+    "model": "Sedan",
+    "year": 2014,
+    "price": 48323.6,
+    "is_used": true,
+    "features": [
+      "GPS",
+      "Sunroof",
+      "Leather Seats"
+    ]
+  },
+  {
+    "car_id": 89,
+    "brand": "Honda",
+    "model": "Convertible",
+    "year": 2016,
+    "price": 23544.77,
+    "is_used": false,
+    "features": [
+      "GPS"
+    ]
+  },
+  {
+    "car_id": 90,
+    "brand": "Honda",
+    "model": "Sedan",
+    "year": 2017,
+    "price": 21585.61,
+    "is_used": true,
+    "features": [
+      "GPS"
+    ]
+  },
+  {
+    "car_id": 91,
+    "brand": "Honda",
+    "model": "Sedan",
+    "year": 2010,
+    "price": 25975.16,
+    "is_used": true,
+    "features": [
+      "Leather Seats",
+      "Backup Camera"
+    ]
+  },
+  {
+    "car_id": 92,
+    "brand": "Chevrolet",
+    "model": "Convertible",
+    "year": 2020,
+    "price": 37316.77,
+    "is_used": false,
+    "features": [
+      "Backup Camera"
+    ]
+  },
+  {
+    "car_id": 93,
+    "brand": "Ford",
+    "model": "Convertible",
+    "year": 2015,
+    "price": 38902.84,
+    "is_used": true,
+    "features": [
+      "Backup Camera",
+      "Backup Camera",
+      "Leather Seats"
+    ]
+  },
+  {
+    "car_id": 94,
+    "brand": "Chevrolet",
+    "model": "SUV",
+    "year": 2011,
+    "price": 42938.99,
+    "is_used": false,
+    "features": [
+      "Leather Seats",
+      "Sunroof",
+      "Backup Camera"
+    ]
+  },
+  {
+    "car_id": 95,
+    "brand": "Chevrolet",
+    "model": "Convertible",
+    "year": 2014,
+    "price": 15177.32,
+    "is_used": true,
+    "features": [
+      "Bluetooth"
+    ]
+  },
+  {
+    "car_id": 96,
+    "brand": "Ford",
+    "model": "Convertible",
+    "year": 2019,
+    "price": 49566.02,
+    "is_used": true,
+    "features": [
+      "Sunroof",
+      "Bluetooth",
+      "Backup Camera"
+    ]
+  },
+  {
+    "car_id": 97,
+    "brand": "Chevrolet",
+    "model": "Truck",
+    "year": 2013,
+    "price": 20564.75,
+    "is_used": false,
+    "features": [
+      "GPS"
+    ]
+  },
+  {
+    "car_id": 98,
+    "brand": "Ford",
+    "model": "SUV",
+    "year": 2012,
+    "price": 18754.57,
+    "is_used": false,
+    "features": [
+      "Bluetooth"
+    ]
+  },
+  {
+    "car_id": 99,
+    "brand": "Toyota",
+    "model": "SUV",
+    "year": 2023,
+    "price": 20432.83,
+    "is_used": true,
+    "features": [
+      "Sunroof",
+      "Backup Camera"
+    ]
+  },
+  {
+    "car_id": 100,
+    "brand": "Honda",
+    "model": "Sedan",
+    "year": 2016,
+    "price": 27976.93,
+    "is_used": true,
+    "features": [
+      "GPS",
+      "Leather Seats"
+    ]
+  }
+]

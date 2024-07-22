@@ -1,0 +1,1254 @@
+[
+  {
+    "employee_id": 1,
+    "full_name": "Shane Leblanc",
+    "position": "Tourist information centre manager",
+    "department": "Finance",
+    "salary": 73257.97,
+    "hire_date": "2021-07-14",
+    "skills": [
+      "Project Management",
+      "Communication",
+      "Python",
+      "Java"
+    ]
+  },
+  {
+    "employee_id": 2,
+    "full_name": "John Mendez",
+    "position": "Therapist, horticultural",
+    "department": "IT",
+    "salary": 75794.56,
+    "hire_date": "2022-08-07",
+    "skills": [
+      "SQL",
+      "Java",
+      "Python",
+      "Communication"
+    ]
+  },
+  {
+    "employee_id": 3,
+    "full_name": "Clifford Carr",
+    "position": "Engineer, materials",
+    "department": "HR",
+    "salary": 74800.08,
+    "hire_date": "2019-02-12",
+    "skills": [
+      "Communication",
+      "Communication"
+    ]
+  },
+  {
+    "employee_id": 4,
+    "full_name": "Dennis Alexander",
+    "position": "Sports development officer",
+    "department": "Marketing",
+    "salary": 41102.9,
+    "hire_date": "2023-07-30",
+    "skills": [
+      "SQL",
+      "Communication"
+    ]
+  },
+  {
+    "employee_id": 5,
+    "full_name": "John Miranda",
+    "position": "Regulatory affairs officer",
+    "department": "HR",
+    "salary": 113022.01,
+    "hire_date": "2019-08-06",
+    "skills": [
+      "Python"
+    ]
+  },
+  {
+    "employee_id": 6,
+    "full_name": "Peter Walters",
+    "position": "Surgeon",
+    "department": "Finance",
+    "salary": 100615.67,
+    "hire_date": "2022-03-15",
+    "skills": [
+      "SQL",
+      "SQL",
+      "Communication"
+    ]
+  },
+  {
+    "employee_id": 7,
+    "full_name": "Robert Grimes",
+    "position": "Data scientist",
+    "department": "HR",
+    "salary": 74518.66,
+    "hire_date": "2021-05-08",
+    "skills": [
+      "Java",
+      "Java",
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "employee_id": 8,
+    "full_name": "Leslie Graham",
+    "position": "Commercial horticulturist",
+    "department": "IT",
+    "salary": 42679.52,
+    "hire_date": "2023-01-11",
+    "skills": [
+      "Project Management",
+      "Java",
+      "Communication",
+      "Java"
+    ]
+  },
+  {
+    "employee_id": 9,
+    "full_name": "Peter White",
+    "position": "Insurance claims handler",
+    "department": "Marketing",
+    "salary": 53950.54,
+    "hire_date": "2021-06-07",
+    "skills": [
+      "Python"
+    ]
+  },
+  {
+    "employee_id": 10,
+    "full_name": "Daniel Bennett",
+    "position": "Acupuncturist",
+    "department": "IT",
+    "salary": 73134.82,
+    "hire_date": "2021-02-01",
+    "skills": [
+      "SQL"
+    ]
+  },
+  {
+    "employee_id": 11,
+    "full_name": "Mr. Robert Harris",
+    "position": "Research scientist (maths)",
+    "department": "Marketing",
+    "salary": 61509.38,
+    "hire_date": "2023-06-02",
+    "skills": [
+      "Java",
+      "Communication",
+      "Python",
+      "Java"
+    ]
+  },
+  {
+    "employee_id": 12,
+    "full_name": "Elizabeth Carter",
+    "position": "Contractor",
+    "department": "Finance",
+    "salary": 116522.88,
+    "hire_date": "2023-11-03",
+    "skills": [
+      "Java",
+      "Communication"
+    ]
+  },
+  {
+    "employee_id": 13,
+    "full_name": "Michael Williams",
+    "position": "Tourism officer",
+    "department": "IT",
+    "salary": 98421.81,
+    "hire_date": "2019-04-13",
+    "skills": [
+      "SQL",
+      "Java",
+      "Python"
+    ]
+  },
+  {
+    "employee_id": 14,
+    "full_name": "Jamie Soto",
+    "position": "Interior and spatial designer",
+    "department": "Marketing",
+    "salary": 56201.76,
+    "hire_date": "2020-05-18",
+    "skills": [
+      "Java",
+      "Project Management"
+    ]
+  },
+  {
+    "employee_id": 15,
+    "full_name": "Michael Weber",
+    "position": "Hospital pharmacist",
+    "department": "Marketing",
+    "salary": 56832.46,
+    "hire_date": "2020-03-06",
+    "skills": [
+      "SQL"
+    ]
+  },
+  {
+    "employee_id": 16,
+    "full_name": "William Cook",
+    "position": "Hydrologist",
+    "department": "Marketing",
+    "salary": 95666.14,
+    "hire_date": "2019-02-14",
+    "skills": [
+      "SQL",
+      "Project Management"
+    ]
+  },
+  {
+    "employee_id": 17,
+    "full_name": "William Brown",
+    "position": "Quantity surveyor",
+    "department": "IT",
+    "salary": 102009.16,
+    "hire_date": "2023-09-26",
+    "skills": [
+      "Python",
+      "Java",
+      "Java",
+      "Project Management"
+    ]
+  },
+  {
+    "employee_id": 18,
+    "full_name": "Ashley Kent",
+    "position": "Broadcast engineer",
+    "department": "Marketing",
+    "salary": 73956.56,
+    "hire_date": "2019-12-13",
+    "skills": [
+      "Python"
+    ]
+  },
+  {
+    "employee_id": 19,
+    "full_name": "Ann Myers",
+    "position": "Commercial/residential surveyor",
+    "department": "Marketing",
+    "salary": 100304.64,
+    "hire_date": "2019-07-23",
+    "skills": [
+      "SQL"
+    ]
+  },
+  {
+    "employee_id": 20,
+    "full_name": "Charlene Clay",
+    "position": "Engineer, mining",
+    "department": "HR",
+    "salary": 116959.79,
+    "hire_date": "2022-12-03",
+    "skills": [
+      "Python",
+      "Project Management"
+    ]
+  },
+  {
+    "employee_id": 21,
+    "full_name": "Ashley Meyer MD",
+    "position": "Chief Operating Officer",
+    "department": "Finance",
+    "salary": 115284.83,
+    "hire_date": "2023-11-14",
+    "skills": [
+      "Java",
+      "Communication",
+      "Project Management",
+      "Project Management"
+    ]
+  },
+  {
+    "employee_id": 22,
+    "full_name": "Dr. Joshua Maxwell",
+    "position": "Biomedical engineer",
+    "department": "HR",
+    "salary": 66190.2,
+    "hire_date": "2023-08-16",
+    "skills": [
+      "Java",
+      "Python",
+      "Python"
+    ]
+  },
+  {
+    "employee_id": 23,
+    "full_name": "Sheila Nelson",
+    "position": "Regulatory affairs officer",
+    "department": "Finance",
+    "salary": 80036.2,
+    "hire_date": "2020-03-30",
+    "skills": [
+      "Java",
+      "Java"
+    ]
+  },
+  {
+    "employee_id": 24,
+    "full_name": "Vanessa Heath",
+    "position": "Health and safety adviser",
+    "department": "HR",
+    "salary": 70420.19,
+    "hire_date": "2022-07-02",
+    "skills": [
+      "Java",
+      "Java",
+      "SQL",
+      "SQL"
+    ]
+  },
+  {
+    "employee_id": 25,
+    "full_name": "Marissa Snyder",
+    "position": "Holiday representative",
+    "department": "Finance",
+    "salary": 96158.87,
+    "hire_date": "2022-06-18",
+    "skills": [
+      "Project Management",
+      "Project Management"
+    ]
+  },
+  {
+    "employee_id": 26,
+    "full_name": "Abigail Lindsey",
+    "position": "Civil Service administrator",
+    "department": "IT",
+    "salary": 44503.13,
+    "hire_date": "2021-10-03",
+    "skills": [
+      "Communication"
+    ]
+  },
+  {
+    "employee_id": 27,
+    "full_name": "Glenn Oliver",
+    "position": "Loss adjuster, chartered",
+    "department": "Finance",
+    "salary": 117640.12,
+    "hire_date": "2022-02-28",
+    "skills": [
+      "Communication",
+      "Java"
+    ]
+  },
+  {
+    "employee_id": 28,
+    "full_name": "Margaret Martin",
+    "position": "Museum/gallery curator",
+    "department": "IT",
+    "salary": 100381.53,
+    "hire_date": "2023-03-26",
+    "skills": [
+      "Communication",
+      "Project Management"
+    ]
+  },
+  {
+    "employee_id": 29,
+    "full_name": "Charles Lindsey",
+    "position": "Hydrologist",
+    "department": "Marketing",
+    "salary": 110883.2,
+    "hire_date": "2020-01-06",
+    "skills": [
+      "Project Management",
+      "Python",
+      "Java"
+    ]
+  },
+  {
+    "employee_id": 30,
+    "full_name": "Joseph Adams",
+    "position": "Environmental education officer",
+    "department": "Marketing",
+    "salary": 53113.98,
+    "hire_date": "2020-12-19",
+    "skills": [
+      "Communication",
+      "Python",
+      "Communication",
+      "Python"
+    ]
+  },
+  {
+    "employee_id": 31,
+    "full_name": "William Church",
+    "position": "Estate agent",
+    "department": "HR",
+    "salary": 86395.72,
+    "hire_date": "2020-11-03",
+    "skills": [
+      "Project Management"
+    ]
+  },
+  {
+    "employee_id": 32,
+    "full_name": "Taylor Stewart",
+    "position": "Engineer, electrical",
+    "department": "Marketing",
+    "salary": 102722.64,
+    "hire_date": "2020-05-16",
+    "skills": [
+      "Python",
+      "SQL",
+      "Java"
+    ]
+  },
+  {
+    "employee_id": 33,
+    "full_name": "Matthew Williams",
+    "position": "IT consultant",
+    "department": "Finance",
+    "salary": 46542.94,
+    "hire_date": "2023-10-31",
+    "skills": [
+      "Python",
+      "Project Management",
+      "Communication"
+    ]
+  },
+  {
+    "employee_id": 34,
+    "full_name": "Danielle Rich",
+    "position": "Customer service manager",
+    "department": "IT",
+    "salary": 40443.61,
+    "hire_date": "2019-01-07",
+    "skills": [
+      "Project Management",
+      "Python",
+      "SQL",
+      "Communication"
+    ]
+  },
+  {
+    "employee_id": 35,
+    "full_name": "Darlene Ortega",
+    "position": "Manufacturing systems engineer",
+    "department": "Marketing",
+    "salary": 105810.11,
+    "hire_date": "2019-07-19",
+    "skills": [
+      "Java",
+      "Python"
+    ]
+  },
+  {
+    "employee_id": 36,
+    "full_name": "Marie Potter",
+    "position": "Charity fundraiser",
+    "department": "IT",
+    "salary": 43280.79,
+    "hire_date": "2019-01-23",
+    "skills": [
+      "Python",
+      "Java"
+    ]
+  },
+  {
+    "employee_id": 37,
+    "full_name": "David Mendez",
+    "position": "Office manager",
+    "department": "Marketing",
+    "salary": 115446.03,
+    "hire_date": "2020-09-28",
+    "skills": [
+      "Project Management",
+      "Communication",
+      "Python"
+    ]
+  },
+  {
+    "employee_id": 38,
+    "full_name": "Danielle Rios",
+    "position": "Industrial buyer",
+    "department": "IT",
+    "salary": 112350.28,
+    "hire_date": "2020-06-25",
+    "skills": [
+      "Communication",
+      "SQL",
+      "SQL",
+      "Python"
+    ]
+  },
+  {
+    "employee_id": 39,
+    "full_name": "Michael Garcia",
+    "position": "Health promotion specialist",
+    "department": "IT",
+    "salary": 56313.12,
+    "hire_date": "2021-03-15",
+    "skills": [
+      "SQL"
+    ]
+  },
+  {
+    "employee_id": 40,
+    "full_name": "Angel Davis",
+    "position": "Engineer, drilling",
+    "department": "IT",
+    "salary": 103569.77,
+    "hire_date": "2023-05-17",
+    "skills": [
+      "Communication",
+      "SQL",
+      "Python"
+    ]
+  },
+  {
+    "employee_id": 41,
+    "full_name": "Alexandria Smith",
+    "position": "Public relations officer",
+    "department": "Finance",
+    "salary": 70737.73,
+    "hire_date": "2022-11-11",
+    "skills": [
+      "Python",
+      "Java"
+    ]
+  },
+  {
+    "employee_id": 42,
+    "full_name": "Darrell Mann",
+    "position": "Maintenance engineer",
+    "department": "IT",
+    "salary": 66795.3,
+    "hire_date": "2022-05-18",
+    "skills": [
+      "Project Management",
+      "Java"
+    ]
+  },
+  {
+    "employee_id": 43,
+    "full_name": "Raymond Fitzgerald",
+    "position": "Leisure centre manager",
+    "department": "Marketing",
+    "salary": 115057.15,
+    "hire_date": "2021-08-25",
+    "skills": [
+      "SQL",
+      "Communication",
+      "Java",
+      "Project Management"
+    ]
+  },
+  {
+    "employee_id": 44,
+    "full_name": "Ashley Huff",
+    "position": "Cabin crew",
+    "department": "Marketing",
+    "salary": 57637.57,
+    "hire_date": "2023-10-05",
+    "skills": [
+      "Project Management",
+      "Communication"
+    ]
+  },
+  {
+    "employee_id": 45,
+    "full_name": "Sandra Collins",
+    "position": "Librarian, academic",
+    "department": "IT",
+    "salary": 71794.82,
+    "hire_date": "2022-11-02",
+    "skills": [
+      "Java",
+      "SQL",
+      "Python",
+      "Project Management"
+    ]
+  },
+  {
+    "employee_id": 46,
+    "full_name": "Bruce Manning",
+    "position": "IT sales professional",
+    "department": "HR",
+    "salary": 82239.85,
+    "hire_date": "2021-03-05",
+    "skills": [
+      "Project Management",
+      "Python",
+      "Project Management"
+    ]
+  },
+  {
+    "employee_id": 47,
+    "full_name": "Laurie Turner",
+    "position": "Runner, broadcasting/film/video",
+    "department": "Finance",
+    "salary": 105863.74,
+    "hire_date": "2021-09-23",
+    "skills": [
+      "Communication",
+      "Communication"
+    ]
+  },
+  {
+    "employee_id": 48,
+    "full_name": "Kristina Harvey",
+    "position": "Museum/gallery curator",
+    "department": "Finance",
+    "salary": 64597.2,
+    "hire_date": "2023-01-27",
+    "skills": [
+      "Java",
+      "Communication"
+    ]
+  },
+  {
+    "employee_id": 49,
+    "full_name": "Joseph Pollard",
+    "position": "Homeopath",
+    "department": "HR",
+    "salary": 46267.86,
+    "hire_date": "2019-05-13",
+    "skills": [
+      "Communication",
+      "Python",
+      "Communication",
+      "Communication"
+    ]
+  },
+  {
+    "employee_id": 50,
+    "full_name": "Matthew James",
+    "position": "Armed forces logistics/support/administrative officer",
+    "department": "HR",
+    "salary": 109061.74,
+    "hire_date": "2023-12-10",
+    "skills": [
+      "Project Management"
+    ]
+  },
+  {
+    "employee_id": 51,
+    "full_name": "Zachary Matthews",
+    "position": "Event organiser",
+    "department": "IT",
+    "salary": 90617.88,
+    "hire_date": "2023-07-25",
+    "skills": [
+      "Communication",
+      "SQL",
+      "Java",
+      "Java"
+    ]
+  },
+  {
+    "employee_id": 52,
+    "full_name": "Shawn Martin",
+    "position": "Rural practice surveyor",
+    "department": "IT",
+    "salary": 101006.31,
+    "hire_date": "2020-06-25",
+    "skills": [
+      "SQL",
+      "Communication",
+      "Project Management",
+      "Communication"
+    ]
+  },
+  {
+    "employee_id": 53,
+    "full_name": "Stephanie Townsend",
+    "position": "Copywriter, advertising",
+    "department": "HR",
+    "salary": 97895.78,
+    "hire_date": "2023-01-29",
+    "skills": [
+      "Python"
+    ]
+  },
+  {
+    "employee_id": 54,
+    "full_name": "Hannah Durham",
+    "position": "Engineer, civil (consulting)",
+    "department": "Marketing",
+    "salary": 110042.27,
+    "hire_date": "2022-03-30",
+    "skills": [
+      "Project Management",
+      "Python",
+      "Project Management",
+      "SQL"
+    ]
+  },
+  {
+    "employee_id": 55,
+    "full_name": "Helen Parker",
+    "position": "Graphic designer",
+    "department": "Finance",
+    "salary": 54814.0,
+    "hire_date": "2020-09-21",
+    "skills": [
+      "Java"
+    ]
+  },
+  {
+    "employee_id": 56,
+    "full_name": "Joseph Howard",
+    "position": "Arts administrator",
+    "department": "HR",
+    "salary": 87220.37,
+    "hire_date": "2021-10-30",
+    "skills": [
+      "SQL",
+      "Java"
+    ]
+  },
+  {
+    "employee_id": 57,
+    "full_name": "Diane Barber",
+    "position": "Chief Financial Officer",
+    "department": "Finance",
+    "salary": 81611.77,
+    "hire_date": "2022-12-17",
+    "skills": [
+      "Communication",
+      "Project Management",
+      "Project Management",
+      "SQL"
+    ]
+  },
+  {
+    "employee_id": 58,
+    "full_name": "Sandy Oconnor",
+    "position": "Dietitian",
+    "department": "Finance",
+    "salary": 111828.18,
+    "hire_date": "2021-05-08",
+    "skills": [
+      "Communication",
+      "Communication"
+    ]
+  },
+  {
+    "employee_id": 59,
+    "full_name": "James Mosley",
+    "position": "Technical author",
+    "department": "Marketing",
+    "salary": 50191.06,
+    "hire_date": "2021-10-27",
+    "skills": [
+      "Communication",
+      "Project Management",
+      "Project Management",
+      "SQL"
+    ]
+  },
+  {
+    "employee_id": 60,
+    "full_name": "Brandon Perkins",
+    "position": "Careers adviser",
+    "department": "Marketing",
+    "salary": 57197.61,
+    "hire_date": "2022-05-09",
+    "skills": [
+      "Python",
+      "SQL",
+      "Java"
+    ]
+  },
+  {
+    "employee_id": 61,
+    "full_name": "Michelle Long",
+    "position": "Child psychotherapist",
+    "department": "Marketing",
+    "salary": 79208.29,
+    "hire_date": "2023-11-14",
+    "skills": [
+      "SQL",
+      "Project Management"
+    ]
+  },
+  {
+    "employee_id": 62,
+    "full_name": "John Scott",
+    "position": "Ecologist",
+    "department": "HR",
+    "salary": 107325.13,
+    "hire_date": "2021-06-03",
+    "skills": [
+      "Communication"
+    ]
+  },
+  {
+    "employee_id": 63,
+    "full_name": "Helen Petersen",
+    "position": "Designer, fashion/clothing",
+    "department": "Marketing",
+    "salary": 52015.29,
+    "hire_date": "2021-11-21",
+    "skills": [
+      "Communication"
+    ]
+  },
+  {
+    "employee_id": 64,
+    "full_name": "Richard Maddox",
+    "position": "Accountant, chartered public finance",
+    "department": "Marketing",
+    "salary": 54644.35,
+    "hire_date": "2023-02-17",
+    "skills": [
+      "SQL",
+      "Communication",
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "employee_id": 65,
+    "full_name": "Lisa Sellers",
+    "position": "Water engineer",
+    "department": "HR",
+    "salary": 109585.13,
+    "hire_date": "2023-02-26",
+    "skills": [
+      "SQL"
+    ]
+  },
+  {
+    "employee_id": 66,
+    "full_name": "Jasmine Arnold",
+    "position": "Chartered legal executive (England and Wales)",
+    "department": "IT",
+    "salary": 113756.27,
+    "hire_date": "2022-09-29",
+    "skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "employee_id": 67,
+    "full_name": "Haley Middleton",
+    "position": "Commercial/residential surveyor",
+    "department": "IT",
+    "salary": 115992.09,
+    "hire_date": "2019-08-10",
+    "skills": [
+      "Java",
+      "SQL"
+    ]
+  },
+  {
+    "employee_id": 68,
+    "full_name": "Brittney Fernandez",
+    "position": "Broadcast engineer",
+    "department": "HR",
+    "salary": 85411.54,
+    "hire_date": "2021-08-19",
+    "skills": [
+      "SQL",
+      "Java"
+    ]
+  },
+  {
+    "employee_id": 69,
+    "full_name": "Shane Morgan",
+    "position": "Geoscientist",
+    "department": "IT",
+    "salary": 65559.63,
+    "hire_date": "2020-10-07",
+    "skills": [
+      "Project Management",
+      "Project Management",
+      "Java"
+    ]
+  },
+  {
+    "employee_id": 70,
+    "full_name": "Ronald Molina",
+    "position": "Consulting civil engineer",
+    "department": "IT",
+    "salary": 73278.99,
+    "hire_date": "2022-04-05",
+    "skills": [
+      "Python"
+    ]
+  },
+  {
+    "employee_id": 71,
+    "full_name": "Darren Little",
+    "position": "Geographical information systems officer",
+    "department": "IT",
+    "salary": 71244.14,
+    "hire_date": "2019-11-09",
+    "skills": [
+      "Java",
+      "Communication"
+    ]
+  },
+  {
+    "employee_id": 72,
+    "full_name": "Alexis Martinez",
+    "position": "Geophysical data processor",
+    "department": "Marketing",
+    "salary": 68886.92,
+    "hire_date": "2022-04-06",
+    "skills": [
+      "Project Management",
+      "SQL",
+      "Communication",
+      "Project Management"
+    ]
+  },
+  {
+    "employee_id": 73,
+    "full_name": "Ronald Anderson",
+    "position": "Energy engineer",
+    "department": "IT",
+    "salary": 51935.8,
+    "hire_date": "2019-03-23",
+    "skills": [
+      "Java",
+      "Python",
+      "Python"
+    ]
+  },
+  {
+    "employee_id": 74,
+    "full_name": "Jenna Cooper",
+    "position": "Armed forces logistics/support/administrative officer",
+    "department": "Marketing",
+    "salary": 116070.35,
+    "hire_date": "2022-06-24",
+    "skills": [
+      "Python",
+      "Communication",
+      "Project Management"
+    ]
+  },
+  {
+    "employee_id": 75,
+    "full_name": "Christopher Moore",
+    "position": "Armed forces training and education officer",
+    "department": "IT",
+    "salary": 99030.65,
+    "hire_date": "2020-02-11",
+    "skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "employee_id": 76,
+    "full_name": "Jennifer Kennedy",
+    "position": "Nurse, children's",
+    "department": "Marketing",
+    "salary": 78908.33,
+    "hire_date": "2020-12-11",
+    "skills": [
+      "Java",
+      "Java",
+      "Java",
+      "SQL"
+    ]
+  },
+  {
+    "employee_id": 77,
+    "full_name": "Megan Mckenzie",
+    "position": "Radiographer, therapeutic",
+    "department": "IT",
+    "salary": 114220.5,
+    "hire_date": "2019-09-09",
+    "skills": [
+      "Java",
+      "Java"
+    ]
+  },
+  {
+    "employee_id": 78,
+    "full_name": "Adriana Goodwin",
+    "position": "Advice worker",
+    "department": "Marketing",
+    "salary": 48264.86,
+    "hire_date": "2019-03-17",
+    "skills": [
+      "Python"
+    ]
+  },
+  {
+    "employee_id": 79,
+    "full_name": "Shannon Gibson",
+    "position": "Cytogeneticist",
+    "department": "IT",
+    "salary": 80036.61,
+    "hire_date": "2021-02-09",
+    "skills": [
+      "Java",
+      "Project Management",
+      "Python"
+    ]
+  },
+  {
+    "employee_id": 80,
+    "full_name": "Christine Smith",
+    "position": "Energy engineer",
+    "department": "HR",
+    "salary": 50252.4,
+    "hire_date": "2023-10-22",
+    "skills": [
+      "SQL",
+      "Java",
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "employee_id": 81,
+    "full_name": "Miss Veronica Bray",
+    "position": "Information systems manager",
+    "department": "Finance",
+    "salary": 61817.38,
+    "hire_date": "2022-06-12",
+    "skills": [
+      "Project Management"
+    ]
+  },
+  {
+    "employee_id": 82,
+    "full_name": "Stephanie Sherman",
+    "position": "Civil Service fast streamer",
+    "department": "Marketing",
+    "salary": 95517.64,
+    "hire_date": "2019-10-03",
+    "skills": [
+      "Communication",
+      "Communication"
+    ]
+  },
+  {
+    "employee_id": 83,
+    "full_name": "Douglas Ramos",
+    "position": "Research officer, government",
+    "department": "HR",
+    "salary": 59717.23,
+    "hire_date": "2023-08-11",
+    "skills": [
+      "SQL",
+      "Java"
+    ]
+  },
+  {
+    "employee_id": 84,
+    "full_name": "Jessica Collins",
+    "position": "Retail buyer",
+    "department": "Finance",
+    "salary": 82081.13,
+    "hire_date": "2020-11-29",
+    "skills": [
+      "Java",
+      "SQL",
+      "SQL"
+    ]
+  },
+  {
+    "employee_id": 85,
+    "full_name": "Timothy Willis",
+    "position": "Child psychotherapist",
+    "department": "IT",
+    "salary": 86382.65,
+    "hire_date": "2022-04-14",
+    "skills": [
+      "SQL",
+      "Communication"
+    ]
+  },
+  {
+    "employee_id": 86,
+    "full_name": "David Powell MD",
+    "position": "Pharmacologist",
+    "department": "Marketing",
+    "salary": 73818.31,
+    "hire_date": "2022-09-20",
+    "skills": [
+      "Communication",
+      "Java"
+    ]
+  },
+  {
+    "employee_id": 87,
+    "full_name": "Traci Lara",
+    "position": "Administrator, charities/voluntary organisations",
+    "department": "IT",
+    "salary": 61501.51,
+    "hire_date": "2023-06-21",
+    "skills": [
+      "Java",
+      "Java",
+      "Java"
+    ]
+  },
+  {
+    "employee_id": 88,
+    "full_name": "Michael Briggs",
+    "position": "Theatre director",
+    "department": "Finance",
+    "salary": 53492.52,
+    "hire_date": "2019-06-01",
+    "skills": [
+      "SQL",
+      "Python",
+      "Java",
+      "Java"
+    ]
+  },
+  {
+    "employee_id": 89,
+    "full_name": "Andrea Rodriguez",
+    "position": "Surveyor, commercial/residential",
+    "department": "IT",
+    "salary": 40327.83,
+    "hire_date": "2020-06-02",
+    "skills": [
+      "Project Management",
+      "Java",
+      "SQL"
+    ]
+  },
+  {
+    "employee_id": 90,
+    "full_name": "Deanna Gilbert",
+    "position": "Television floor manager",
+    "department": "Finance",
+    "salary": 57179.93,
+    "hire_date": "2020-12-12",
+    "skills": [
+      "Project Management"
+    ]
+  },
+  {
+    "employee_id": 91,
+    "full_name": "Kelly Hall",
+    "position": "Mining engineer",
+    "department": "Finance",
+    "salary": 80789.25,
+    "hire_date": "2020-12-07",
+    "skills": [
+      "SQL",
+      "Communication",
+      "Communication"
+    ]
+  },
+  {
+    "employee_id": 92,
+    "full_name": "Ashley Griffith",
+    "position": "Buyer, retail",
+    "department": "Marketing",
+    "salary": 77181.16,
+    "hire_date": "2023-05-26",
+    "skills": [
+      "SQL"
+    ]
+  },
+  {
+    "employee_id": 93,
+    "full_name": "Joshua Daugherty",
+    "position": "Radio broadcast assistant",
+    "department": "IT",
+    "salary": 48179.81,
+    "hire_date": "2023-08-21",
+    "skills": [
+      "SQL",
+      "Python",
+      "Java",
+      "Communication"
+    ]
+  },
+  {
+    "employee_id": 94,
+    "full_name": "Paul Johnson",
+    "position": "Teacher, primary school",
+    "department": "Finance",
+    "salary": 71577.72,
+    "hire_date": "2023-02-28",
+    "skills": [
+      "Python",
+      "Java",
+      "Python",
+      "Python"
+    ]
+  },
+  {
+    "employee_id": 95,
+    "full_name": "Tanya Santos",
+    "position": "Accountant, chartered management",
+    "department": "HR",
+    "salary": 52240.6,
+    "hire_date": "2023-12-15",
+    "skills": [
+      "Python",
+      "Python"
+    ]
+  },
+  {
+    "employee_id": 96,
+    "full_name": "Lauren Richardson",
+    "position": "Sports therapist",
+    "department": "Finance",
+    "salary": 74956.71,
+    "hire_date": "2020-07-27",
+    "skills": [
+      "Project Management"
+    ]
+  },
+  {
+    "employee_id": 97,
+    "full_name": "Kevin Vega",
+    "position": "Sales professional, IT",
+    "department": "Finance",
+    "salary": 85803.02,
+    "hire_date": "2019-01-10",
+    "skills": [
+      "Python",
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "employee_id": 98,
+    "full_name": "Andrew Walton",
+    "position": "Building control surveyor",
+    "department": "Finance",
+    "salary": 118792.74,
+    "hire_date": "2023-01-09",
+    "skills": [
+      "Communication",
+      "Communication"
+    ]
+  },
+  {
+    "employee_id": 99,
+    "full_name": "Justin Reeves",
+    "position": "Petroleum engineer",
+    "department": "IT",
+    "salary": 46256.68,
+    "hire_date": "2022-10-08",
+    "skills": [
+      "Communication",
+      "SQL"
+    ]
+  },
+  {
+    "employee_id": 100,
+    "full_name": "John Dougherty",
+    "position": "Physiotherapist",
+    "department": "HR",
+    "salary": 90394.05,
+    "hire_date": "2021-12-21",
+    "skills": [
+      "Communication",
+      "SQL",
+      "Java",
+      "Java"
+    ]
+  }
+]
