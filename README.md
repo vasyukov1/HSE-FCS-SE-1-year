@@ -6,6 +6,8 @@
 
 Вспомагательные ссылки:
 
+- [Github-репозиторий по матану от лучшего ассиста](https://github.com/i80287/Calculus-HSE-SE)
+
 - [Подготовка к коллоквиуму по матану Kerblif](https://wiki.kerblif.space/ru/matan)
 
 - [Подготовка к коллоквиуму по алгебре Cocalc.Kerblif](https://cocalc.kerblif.space/share/public_paths/426a3b46bb7a85b5675e55314a96e938620e8236)
